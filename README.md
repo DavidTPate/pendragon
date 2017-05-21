@@ -124,6 +124,13 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
     - [Ordinary](#ordinary)
     - [Rich](#rich)
     - [Superlative](#superlative)
+- [Combat Rules](#combat-rules)
+  - [Injury and Health](#injury-and-health)
+    - [Hit Points](#hit-points)
+      - [Losing Hit Points](#losing-hit-points)
+      - [Regaining Hit Points](#regaining-hit-points)
+      - [Unconscious](#unconscious)
+      - [Zero or Negative Hit Points](#zero-or-negative-hit-points)
 
 <!-- tocstop -->
 
@@ -940,7 +947,22 @@ floods, modifiers may be assigned.
 A success with the Boating skill can gain the character Glory if lives were saved thereby.
 
 ### Chirurgery (Non-Knightly)
+This ancient practice of healing includes much useful knowledge, such as herbal medicine and bone setting. It also
+includes superstition, prayer, and generous heaps of misinformation. Thus, its use is fraught with uncertainty.
+Chirurgery (pronounced approximately “KY-rir-jur-ee”) does little to heal the patient directly, but is a process that
+seeks only to keep the patient alive so that the natural healing processes of the body may take effect.
 
+Chirurgery is a most important skill for women, though many priests and monks also know it. However, it is not the duty
+of a knight to learn this skill, and most knights would feel highly uncomfortable performing a skill associated with women.
+
+Badly wounded, ill, or debilitated characters often require application of the Chirurgery skill. If your character needs
+Chirurgery, for whatever reason, the Gamemaster tells you to check the box on the character sheet entitled “Chirurgery Needed.”
+
+Glory should always be gained for successful use of the Chirurgery skill. The amount gained can be increased in
+proportion to the Glory or rank of the character being treated if the Gamemaster feels this is appropriate. More
+ Glory should be gained if a life was saved thereby.
+
+See [Injury and Health”](#injury-and-health) in for more information on the complicated processes of chirurgery and healing.
 
 # Winter Phase
 Winter is the time for rest, recuperation, and character growth. During this time, knights engage in training, amorous
@@ -1415,3 +1437,79 @@ Superlative knights also benefit from superior health and the aid of well-equipp
 
 > **Glory**: As noted under Rich knights, above, knights who live above their expected means gain additional annual
 Glory based on their income.
+
+# Combat Rules
+
+## Injury and Health
+The raison d’etre of the knight is to ﬁght, and much of the action in the game revolves around personal or military
+combat — which often results in injury, whether minor or mortal. Knights expect to take injury, and they wear their
+many scars proudly.
+
+In Arthurian literature, knights often suffer great wounds, and thereafter go through long periods of healing and rest
+to recover. Such events are realistic as well as authentic to the stories. The following rules attempt to formalize this
+process, while leaving the Gamemaster enough ﬂexibility to deal with all possible situations.
+
+Keeping track of injuries and healing is a complicated process. Both the Gamemaster and players are responsible for
+recording information accurately and honestly. You may wish to simplify portions of these rules while learning the game,
+but they should be used in full once familiarity is gained. The reward will be a more authentic and dramatic experience.
+
+Violence in Pendragon should be realistic and terrifying, never casual or routine, and the best way to achieve this is
+to make injuries a serious matter.
+
+### Hit Points
+Health in Pendragon is measured primarily through the Total Hit Points statistic (calculated using SIZ + CON). This
+number represents the character’s capacity to absorb injury. Death is imminent if a character has 0 or negative hit
+points. In essence, though, a character with only half his hit points is half-dead.
+
+#### Losing Hit Points
+As damage is taken during the game, hit points are lost. The player records this loss, in pencil, using the workspace
+on the character sheet labeled “Current Hit Points.”
+
+Characters may lose hit points from many different sources. Some forms of damage cause wounds, while some act directly
+on hit points. Fatigue alone never causes hit point loss.
+
+Once injured, characters may lose further hit points through illness, infection, excess activity, blood loss, or worse.
+These factors are summarized under the “Deterioration and Aggravation” rules below. Deterioration may be prevented by
+the unsophisticated medicine of the times, known as Chirurgery. Aggravation is caused by excessive activity while a
+character is already injured or ill, and may be averted only by avoiding such activity.
+
+#### Regaining Hit Points
+A character’s recovery from injury is a natural bodily process, which is quantiﬁed as that character’s Healing Rate,
+calculated as (STR + CON) ÷ 10. Characters normally recover a number of hit points equal to their Healing Rate every
+week (on Sunday at noon, in fact), although the Gamemaster may adjust this schedule if necessary.
+
+The First Aid skill lets the injured character regain hit points immediately, and ensures that bleeding is stopped,
+infection prevented, and so forth. A critical success with the Chirurgery skill augments a patient’s Healing Rate.
+(See [First Aid](#first-aid) and [Chirurgery”](#chirurgery))
+
+Magical healing may cure hit points or otherwise magically improve a character’s health, at the Gamemaster’s option. As
+always, the details of healing magic are secrets known only to the Gamemaster (and to a few unique Gamemaster characters).
+
+In all cases, any hit points that would be regained over the value of the Total Hit Points statistic are lost.
+
+#### Unconscious
+As a character loses hit points, he reaches a point at which he becomes unconscious. This important threshold is
+represented by the Unconscious statistic, equal to Total Hit Points ÷ 4.
+
+Characters with current hit points below the Unconscious value are out of action. At the moment a character goes below
+this threshold, he slumps slowly to the ground, possibly staggering a few yards ﬁrst or sliding gently off his horse
+before collapsing. (A DEX roll is allowed for a mounted character who becomes unconscious, with success indicating that
+any falling damage is averted; otherwise, he takes another 1d6 points from the fall.)
+
+The Gamemaster may wish to let unconscious characters have brief periods of lucidity. With Gamemaster approval, they may
+be allowed to speak quietly. For example, they might be capable of slowly dictating a will, praying for divine guidance,
+or describing an assailant in a weak whisper. (See the “A Fight to the Death” sidebar.)
+
+Since they have been gravely injured, unconscious characters are considered unhealthy (see “States of Health”) and must
+check the “Chirurgery Needed” box on their character sheet immediately. They require chirurgery until the Gamemaster says
+otherwise.
+
+Example of Injury and Unconsciousness: In a tremendous ﬁght, Sir Ambrut is victorious over two Saxon assailants. Ambrut
+takes no Major Wound in the ﬁght due to his heroic CON of 21. However, he takes many minor injuries, including a fall
+from his horse, for a total of 26 points of damage, leaving him with 8 current hit points.
+
+Since 8 is below Ambrut’s Unconscious value of 9, the sorely wounded knight staggers into a wood near the battleﬁeld and
+falls unconscious. His player checks Ambrut’s “Chirurgery Needed” box at once.
+
+#### Zero or Negative Hit Points
+Page 124
