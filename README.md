@@ -796,6 +796,7 @@ Knights may join or even form fellowships. (The name of the fellowship replaces 
 passion.) The typical Loyalty (group) value for a new group is 3d6.
 
 Circumstance | Modifier
+------------ | --------
 Members are all kinsmen or from the same kingdom | +6
 Members are all of same general culture | +1d6
 Members knew each other previously | Varies (as appropriate)
