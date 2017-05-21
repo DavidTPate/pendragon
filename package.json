@@ -1,0 +1,22 @@
+{
+  "name": "pendragon",
+  "version": "1.0.0",
+  "description": "Repository for Pendragon rules as a reference for myself.",
+  "main": "generate-readme-toc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidTPate/pendragon.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DavidTPate/pendragon/issues"
+  },
+  "homepage": "https://github.com/DavidTPate/pendragon#readme",
+  "devDependencies": {
+    "markdown-toc": "^1.1.0"
+  }
+}
