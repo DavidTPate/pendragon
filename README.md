@@ -69,6 +69,16 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
   - [Results of Experience Checks](#results-of-experience-checks)
 - [Skills](#skills)
   - [Improving Skills](#improving-skills)
+  - [Skill Categories](#skill-categories)
+    - [Knight](#knight)
+    - [Knowledge](#knowledge)
+    - [Non-Knight](#non-knight)
+  - [Success or Failure](#success-or-failure)
+  - [Honor](#honor)
+  - [Skill Descriptions](#skill-descriptions)
+    - [Awareness (Knightly)](#awareness-knightly)
+    - [Boating (Knightly)](#boating-knightly)
+    - [Chirurgery (Non-Knightly)](#chirurgery-non-knightly)
 - [Winter Phase](#winter-phase)
   - [Step 1: Solo Scenarios](#step-1-solo-scenarios)
   - [Step 2: Experience Rolls](#step-2-experience-rolls)
@@ -863,6 +873,74 @@ Part of the fun in the game is seeing your character increase in skill. Most pla
 skills that they increase through the methods listed above, over several decades of game time. Using training and 
 practice, these skills are gradually raised to a value of 20. Thereafter, experience checks 
 (see [Obtaining Experience](#obtaining-experience)) and Glory can raise each skill into the realm of truly heroic mastery.
+
+## Skill Categories
+Skills are divided into two broad categories: ordinary skills (normally referred to as simply “skills”), which include a
+wide range of different practical proficiencies and areas of knowledge, and combat skills, the crucial military skills
+that are the traditional area of expertise for knights. The two categories are listed in two separate areas on the
+knight’s character sheet, and are described in separate sections below.
+
+### Knight
+Certain skills are noted as being Knightly in nature. These are accepted as being compatible with the duties of knighthood.
+Characters who are not knights may also use these skills; for instance, a common huntsman should have a decent Awareness skill.
+
+### Knowledge
+Some skills are noted as being Knowledge skills. These include knowledge normally associated with social classes, such as
+Courtesy (noble customs), Folklore (peasant customs), and Religion (clerical customs); or with specialized practices,
+such as Romance or Tourney. These are bodies of information that require special knowledge to execute properly.
+
+Each knowledge skill includes the what, when, where, why, and how of these activities or areas of expertise. Success in
+a knowledge skill does not always indicate that the knight did something, but that he knew, intuited, or recognized
+something important or useful.
+
+### Non-Knight
+Non-Knightly skills are those often used in the game, but not by knights. The best example is Industry (used in artistry
+and artisanship), which is normal for women, tradesmen, and peasants, but will surely cost a knight his title if he
+engages in it. Characters destined for knighthood begin with — and generally maintain — a value of 0 in these skills.
+
+## Success or Failure
+Success or failure with skills is resolved using the normal resolution rolls (see Chapter 5). Some skills are used only 
+in unopposed resolution, while others are normally used in opposition against other characters, in contests or challenges. 
+Modifiers may be applied to any of these resolutions.
+
+The results of a critical success or fumble with an ordinary skill, when significant, are given in the individual skill 
+descriptions below. Otherwise, the Gamemaster describes the results based on the situation.
+
+The [Combat Skills](#combat-skills) section gives the results of criticals and fumbles for combat skills.
+
+## Honor
+The Honor passion reflects your character’s code of behavior and his reputation as a knight. Fumbled or failed skill 
+rolls do not affect your character’s Honor value: Honor cannot be lost simply because of a bad skill roll.
+
+Certain situations might occur, however, in which a Gamemaster feels justified in subtracting Honor because a skill was 
+used unwisely or unjustly. For example, causing harm or humiliation to another character through failure in a skill 
+might incur the loss of 1 point of Honor (or, in particularly severe cases, more) — especially if another character 
+with a higher value in that skill was available to attempt the task, yet the character who failed insisted on taking
+responsibility for the task anyway. The Gamemaster is always the final arbiter in such difficult situations.
+
+## Skill Descriptions
+Descriptions of, you know, skills.
+
+### Awareness (Knightly)
+Use this skill when a knight is listening for a sound, trying to spot a hidden Pict or discern some other hidden danger,
+or otherwise draw some sensory information from his surroundings.
+
+This skill measures the character’s attentiveness to his immediate surroundings, using both his five physical senses and
+the mysterious “sixth sense.” A critical success might reveal extra information (such as the precise location of the
+bandits hiding in the trees, as opposed to the simple realization that there are bandits there), while a fumbled
+Awareness roll reveals incorrect information.
+
+A success that reveals an ambush or other such crucial information may be worth Glory, at the Gamemaster’s option.
+
+### Boating (Knightly)
+This skill allows a character to handle watercraft, whether a rowboat, a skiff, a coracle, or a Saxon longship. Success 
+indicates that the boat did what it was supposed to do. In calm waters, Boating is unmodified, but during storms or 
+floods, modifiers may be assigned.
+
+A success with the Boating skill can gain the character Glory if lives were saved thereby.
+
+### Chirurgery (Non-Knightly)
+
 
 # Winter Phase
 Winter is the time for rest, recuperation, and character growth. During this time, knights engage in training, amorous
