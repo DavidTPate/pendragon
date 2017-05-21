@@ -48,14 +48,20 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
   - [Ordinary Traits and Passions](#ordinary-traits-and-passions)
   - [Starting Passions](#starting-passions)
   - [Types of Passions](#types-of-passions)
-    - [Loyalty (lord)](#loyalty-lord)
+    - [Loyalty (Lord)](#loyalty-lord)
     - [Love (of family)](#love-of-family)
     - [Hospitality](#hospitality)
     - [Honor](#honor)
       - [Dishonorable Acts](#dishonorable-acts)
     - [Hatred (of Saxons)](#hatred-of-saxons)
-      - [Other Common Passions](#other-common-passions)
-        - [Fear (](#fear-)
+    - [Fear (Creature or Event)](#fear-creature-or-event)
+    - [Hate (Nation, Group, or Person)](#hate-nation-group-or-person)
+    - [Loyalty (Pendragon)](#loyalty-pendragon)
+    - [Loyalty (Vassals)](#loyalty-vassals)
+    - [Loyalty (Group)](#loyalty-group)
+    - [Love (Person, Group, or God)](#love-person-group-or-god)
+      - [Love (Deity)](#love-deity)
+      - [Love (Spouse)](#love-spouse)
 - [Glory](#glory)
 - [Obtaining Experience](#obtaining-experience)
   - [Experience From Skills](#experience-from-skills)
@@ -546,7 +552,7 @@ distributing up to 3 points among them. See [Chapter 4 for more information on p
 The Gamemaster might allow other passions for a character by at the start, and characters acquire passions as the result
 of game play. The core passions are listed below:
 
-### Loyalty (lord)
+### Loyalty (Lord)
 Loyalty is the prime virtue of the medieval world — without it, the feudal system could not exist. Most knights believe
 in "King before God," no matter what the priests tell them. Showing obedience is correct behavior, and disobedience to a
 lord is shocking to all true knights
@@ -557,6 +563,16 @@ to that initial lord. The starting Loyalty (lord) value is 15 for vassal knights
 If the Gamemaster permits the play of a household knight with an assured household but no land, like Sir Ambrut, then
 roll 2d6+6 for his Loyalty (lord) passion. If a player runs a homeless knight, his Loyalty to whoever knighted him is
 only 2d6.
+
+As the game progresses, though, a knight may later acquire other lands, though, and therefore other lords as well.
+The typical Loyalty (lord) value for a new lord (other than the one who knighted you) is 3d6.
+
+The following modifiers are common to these loyalties:
+
+Circumstance | Modifier
+------------ | --------
+Manor(s) granted | +1d3 per manor
+Rich estate(s) granted | +1 per $1 of annual income
 
 ### Love (of family)
 Love of family is a natural emotion common to humankind in any age. The travel restrictions of the medieval era were
@@ -590,7 +606,10 @@ really doesn't much care, or if he holds his own anger or hatred in check for th
 All characters from the Cymric culture start with a Hospitality value of 15. 
 
 ### Honor
-Honor is the passion that sets knights apart from ordinary people. It is a combination of personal dignity, integrity, and pride. Personal honor is not always a slippery issue. The Dishonorable Acts table, below, lists a number of things upon which everyone can agree as being dishonorable actions for a knight. Performing these deeds clearly and invariably diminishes honor — this is the code of knighthood to which knights have agreed.
+Honor is the passion that sets knights apart from ordinary people. It is a combination of personal dignity, integrity,
+and pride. Personal honor is not always a slippery issue. The Dishonorable Acts table, below, lists a number of things
+upon which everyone can agree as being dishonorable actions for a knight. Performing these deeds clearly and invariably
+diminishes honor — this is the code of knighthood to which knights have agreed.
 
 #### Dishonorable Acts
 Act | Honor Lost
@@ -628,10 +647,10 @@ be required to make a Proud trait roll by the Gamemaster and, upon losing, the p
 passion (rather than the Modest trait) to help him through the event.
 
 A dishonorable character suffers considerably in Arthurian society. He loses the trust of those about him, and in 
-committing dishonorable acts probably incurs various punishments — monetary ﬁnes, banishment, forfeiture, blood feud,
+committing dishonorable acts probably incurs various punishments — monetary fines, banishment, forfeiture, blood feud,
 etc. These social troubles are further reflected by rules concerning this passion.
 
-Whenever a character's Honor is reduced to 4 or lower, he has proved himself unﬁt to bear the title of knight and 
+Whenever a character's Honor is reduced to 4 or lower, he has proved himself unfit to bear the title of knight and 
 serve a lord. His lord must either outlaw him or degrade him (i.e., strip him of knighthood). To fail to do so places
 the lord's own status in jeopardy because he would be failing to uphold his own governance. Honor may eventually be 
 regained at this grim point in a character's career.
@@ -646,10 +665,84 @@ A character's starting Honor value is 15.
 By default, hatred of the Saxons is an inherited passion of all starting characters. The depredations of these
 foreigners have reached everyone in Britain. Characters begin with a Hate (Saxons) value of 3d6.
 
-#### Other Common Passions
-The most common passions of player characters are described in this section. Expect to encounter these in your game. Other passions are certainly possible.
+### Fear (Creature or Event)
+Fear is a negative emotion that can possibly be inherited as a family curse, but is normally gained only through a
+character’s personal experience. Fear is an irrational and absolute, mindless state of panic. Only extraordinary
+adventures can instill such terror in knight characters (lesser characters may be more vulnerable). Such fear usually
+stems from supernatural places or creatures.
 
-##### Fear (
+Of course, a Fear passion is often wisdom in disguise, as many supernatural creatures and natural phenomena are
+immensely powerful and can cause only harm to humans. Some sample fears might apply to for hags, sailing, sea monsters,
+crazed holy men, standing stones that move, or Picts in the wild.
+
+> _Note: Fears, unlike other passions, never give benefits; they are an exception to the normal passion rules. No Glory
+is gained from a success or a critical success on a Fear roll, and no inspiration is possible. A Fear passion serves
+only to place the character out of the player’s control (or at least to drastically limit his actions) during specific
+situations._
+
+> **Special**: The Gamemaster may create an opportunity to overcome a Fear passion. Such a chance should probably come
+only once in any character’s career, and if the character succeeds in overcoming his Fear, he may gain Glory for it —
+about ten times the value of the character’s former Fear value is appropriate.
+
+### Hate (Nation, Group, or Person)
+Hatred motivates many people in Pendragon, especially poltroons who are driven to dastardly deeds. For instance, King
+Mark assuredly hates Tristram, and Morgan le Fay hates Guenever. Even some of the protagonists develop hatreds, usually
+because of their Love (family) or other loyalties. The best instance is Gawaine’s unrelenting Hate (Lancelot), brought
+about by Lancelot’s slaying of Gareth, Gawaine’s beloved brother.
+
+Hatred may be for an individual, a people, a kingdom, a religion, for magicians or monks, a station or class, or
+whatever the Gamemaster agrees to.
+
+Starting Hate values are up to the Gamemaster, but should have a value of at least 10. The exact Hate value should be
+based on the event that provoked the passion.
+
+### Loyalty (Pendragon)
+Likely, only a few characters will ever become direct vassals of the High King. The typical Loyalty (Pendragon) value is 2d6+6.
+
+Circumstance | Modifier
+Your father was killed fighting against a Pendragon | -1d6
+You are socially conservative | -1d6
+You already have the Hate (Pendragon) passion | Subtract value of the Hate (Pendragon) passion
+Your liege lord has the Hate (Pendragon) passion | Subtract value of the lord's Hate (Pendragon) passion
+
+### Loyalty (Vassals)
+Feudalism calls for mutual loyalty between vassals and lord. Most knights never gain other knights as vassals and thus
+have no need for this passion. However, any knight who does gain the vassalage of other knights should also gain this
+trait, which might be used, for instance, to determine whether the lord will ransom his vassals. Other game uses will
+inevitably come up.
+
+The typical starting Loyalty (Vassals) value is 2d6+6.
+
+### Loyalty (Group)
+Knights may join or even form fellowships. (The name of the fellowship replaces the word “group” in the name of the
+passion.) The typical Loyalty (group) value for a new group is 3d6.
+
+Circumstance | Modifier
+Members are all kinsmen or from the same kingdom | +6
+Members are all of same general culture | +1d6
+Members knew each other previously | Varies (as appropriate)
+
+### Love (Person, Group, or God)
+Love is an emotional bonding or attraction felt by one individual for another individual, group, or deity. A character
+may have many loves, but it is best if only one counts for Glory points each year (normally the highest).
+
+#### Love (Deity)
+This passion is required of all Christian clergy. The cynical nature of many clergymen proves that this passion does
+not have to be high to join the church, but it is a requirement nonetheless. Religiously oriented knights may also
+have this passion.
+
+A critical success in this passion gives the character a modifier or a check to all appropriate religious traits, not
+to any one skill. The character is thereafter incapacitated by an ecstatic vision for a period of time determined by
+the Gamemaster (at least 1 hour), and cannot act at all during that time.
+
+The typical Love (deity) value is equal to that character’s starting Pious trait value.
+
+#### Love (Spouse)
+Deep feeling and attraction for one’s husband or wife was apparently quite uncommon in the feudal world of arranged
+marriages, but not entirely absent. Two signiﬁcant exceptions in the romances are the loves of Duke Gorlois for his
+wife Ygraine and of Arthur for his wife, Guenever.
+
+The typical Loyalty (spouse) value is 3d6.
 
 # Glory
 Any dramatic pattern of behavior gains Glory. As a result, characters with interesting personalities gain more Glory
