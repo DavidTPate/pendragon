@@ -3,7 +3,23 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
 
 <!-- toc -->
 
-
+- [Traits](#traits)
+  - [Traits by Religion](#traits-by-religion)
+    - [Step 1: Religious Background](#step-1-religious-background)
+      - [Roman Christian Virtues](#roman-christian-virtues)
+      - [British Christian Values](#british-christian-values)
+      - [Pagan Virtues](#pagan-virtues)
+    - [Step 2: Assign Values to the Traits](#step-2-assign-values-to-the-traits)
+    - [Step 3: Assign Your "Famous Trait"](#step-3-assign-your-famous-trait)
+  - [Directed Traits](#directed-traits)
+- [Passions](#passions)
+  - [Starting Passions](#starting-passions)
+  - [Types of Passions](#types-of-passions)
+    - [Loyalty](#loyalty)
+    - [Love (of family)](#love-of-family)
+    - [Hospitality](#hospitality)
+    - [Honor](#honor)
+    - [Hatred (of Saxons)](#hatred-of-saxons)
 
 <!-- tocstop -->
 
