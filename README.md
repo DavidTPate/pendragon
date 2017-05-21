@@ -67,6 +67,53 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
   - [Experience From Skills](#experience-from-skills)
   - [Experience From Traits and Passions](#experience-from-traits-and-passions)
   - [Results of Experience Checks](#results-of-experience-checks)
+- [Skills](#skills)
+  - [Improving Skills](#improving-skills)
+- [Winter Phase](#winter-phase)
+  - [Step 1: Solo Scenarios](#step-1-solo-scenarios)
+  - [Step 2: Experience Rolls](#step-2-experience-rolls)
+  - [Step 3: Aging](#step-3-aging)
+    - [Aging Procedure](#aging-procedure)
+      - [Aging Table](#aging-table)
+    - [Statistics Lost](#statistics-lost)
+  - [Step 4: Economic Circumstances](#step-4-economic-circumstances)
+    - [Effects of Maintenance](#effects-of-maintenance)
+      - [Impoverished](#impoverished)
+      - [Poor](#poor)
+      - [Ordinary](#ordinary)
+      - [Rich](#rich)
+      - [Superlative](#superlative)
+    - [Clothing Value](#clothing-value)
+  - [Step 5: Stable Rolls](#step-5-stable-rolls)
+  - [Step 6: Family Rolls](#step-6-family-rolls)
+    - [Marriage](#marriage)
+      - [Below Your Class](#below-your-class)
+      - [Within Your Class](#within-your-class)
+    - [Random Marriage](#random-marriage)
+    - [Children](#children)
+      - [Childbirth](#childbirth)
+      - [Child Survival](#child-survival)
+    - [Family Events](#family-events)
+      - [Family Events Table](#family-events-table)
+      - [Scandalous Rumors](#scandalous-rumors)
+      - [Impacted Family Member Table](#impacted-family-member-table)
+  - [Step 7: Training and Practice](#step-7-training-and-practice)
+    - [Choice 1: Gain 1d6 + 1 Points in Skills (To Max 15)](#choice-1-gain-1d6--1-points-in-skills-to-max-15)
+    - [Choice 2: Gain 1 Point in a Skill (To Max 20)](#choice-2-gain-1-point-in-a-skill-to-max-20)
+    - [Choice 3: Improve an Attribute, Trait, or Passion](#choice-3-improve-an-attribute-trait-or-passion)
+  - [Step 8: Compute Glory](#step-8-compute-glory)
+    - [Glory from Play](#glory-from-play)
+    - [Glory from Solo Scenario](#glory-from-solo-scenario)
+    - [Glory from Unique Honors](#glory-from-unique-honors)
+    - [Annual Glory](#annual-glory)
+  - [Step 9: Glory Bonuses](#step-9-glory-bonuses)
+- [Standards of Living](#standards-of-living)
+  - [Grades of Maintenance](#grades-of-maintenance)
+    - [Impoverished](#impoverished)
+    - [Poor](#poor)
+    - [Ordinary](#ordinary)
+    - [Rich](#rich)
+    - [Superlative](#superlative)
 
 <!-- tocstop -->
 
@@ -484,7 +531,7 @@ This inspiration lasts for the length of the task at hand, but never for more th
 
 ##### Shock
 If a knight should somehow fail to perform a deed for which he was inspired, he suffers shock. In game terms, the
-character must immediately make an [aging roll](#aging).
+character must immediately make an [aging roll](#step-3-aging).
 
 > _Note: The Gamemaster may impose shock on characters (with or without their first being inspired) in other appropriate 
 situations as well. Likely circumstances for imposing such a state might be after the knight has just abandoned a 
@@ -714,7 +761,7 @@ inevitably come up.
 The typical starting Loyalty (Vassals) value is 2d6+6.
 
 ### Loyalty (Group)
-Knights may join or even form fellowships. (The name of the fellowship replaces the word “group” in the name of the
+Knights may join or even form fellowships. (The name of the fellowship replaces the word "group" in the name of the
 passion.) The typical Loyalty (group) value for a new group is 3d6.
 
 Circumstance | Modifier
@@ -739,7 +786,7 @@ The typical Love (deity) value is equal to that character’s starting Pious tra
 
 #### Love (Spouse)
 Deep feeling and attraction for one’s husband or wife was apparently quite uncommon in the feudal world of arranged
-marriages, but not entirely absent. Two signiﬁcant exceptions in the romances are the loves of Duke Gorlois for his
+marriages, but not entirely absent. Two significant exceptions in the romances are the loves of Duke Gorlois for his
 wife Ygraine and of Arthur for his wife, Guenever.
 
 The typical Loyalty (spouse) value is 3d6.
@@ -789,3 +836,504 @@ check, too.
 When a character has a check next to a skill, trait, or passion, the player must make an experience roll during the
 [Winter Phase](#LiNK-ME). if the roll is successful, the checked value increases by 1 point. Experience rolls may bring
 skills over 20, with luck.
+
+# Skills
+Character advancement in Pendragon is measured in part by the increase of your character’s skills. Skills express the 
+social and physical activities popular in the Arthurian mythos. No knight is expected to master all or most of the 
+possible skills.
+
+## Improving Skills
+Your character sheet lists every skill and combat skill common to the Cymric culture. Non-standard weapon skills like 
+Great Axe are not printed, and all such skills are assumed to start with a value of 0.
+
+The blanks on the character sheet permit you to write in ordinary skills of your own devising, or special skills from 
+later Pendragon supplements. The blanks under combat skills permit you to write in the non-standard weapon skills of 
+your choice.
+
+Starting values may be altered during Character Generation, and skills can be increased in many ways as the game 
+progresses. Within the setting of the game, a character may raise a skill value by training with a teacher, by diligent 
+practice on his own, by first-hand experience in the field, by means of a major increase in self-confidence and reputation, 
+or by magic.
+
+All of these improvements, save those introduced by magic, occur during the [Winter Phase](#winter-phase). The Gamemaster
+handles any magical skill increases that might occur during his scenarios, based on the rules for magic that will appear 
+in future game supplements.
+
+Part of the fun in the game is seeing your character increase in skill. Most players focus on a half-dozen or fewer 
+skills that they increase through the methods listed above, over several decades of game time. Using training and 
+practice, these skills are gradually raised to a value of 20. Thereafter, experience checks 
+(see [Obtaining Experience](#obtaining-experience)) and Glory can raise each skill into the realm of truly heroic mastery.
+
+# Winter Phase
+Winter is the time for rest, recuperation, and character growth. During this time, knights engage in training, amorous
+pursuits, and gossip. In game terms, the players perform character updating.
+
+Although most military activity stops for the winter, people still are active as they gather for feasts and holy days.
+These meetings are of major importance; a lord often calls his vassals to feast at his castle, or travels through the
+snow to visit each of them at their own holdings.
+
+Thus, most of the wintertime is spent in socially oriented scenarios, if any at all. Gamemasters might wish to run more
+typical scenarios during the winter; however, if so, they will have to rule as to whether the normal opportunities for
+training are available during that same year, or lost due to the characters being in action instead.
+
+## Step 1: Solo Scenarios
+Your character may benefit from one or more "solo scenarios" (see Appendix 3). This is particularly important if you were 
+absent for a play session and your knight thus missed the last game year of play. Later in the campaign, Romance may be 
+done in secret, so romantic knights will wish to utilize this step. Check with the Gamemaster.
+
+## Step 2: Experience Rolls
+Characters spend some of the winter reflecting back over the year that has gone by. This process is simulated using an 
+"experience roll." Throughout game play during the game’s summer season, potential improvements are recorded as an 
+increase in the checked skill, passion, or trait value (see "[Obtaining Experience](#obtaining-experience)).
+
+The experience roll process is the same whether you seek to increase a skill, a passion, or a trait. Attributes 
+(STR, DEX, etc.) cannot be increased this way. Roll d20 once for each experience check you have on your character 
+sheet. If the number rolled is greater than the current value, then the character learned from experience and adds 1 
+point to that value. If the value is already at 20 or greater, a roll of 20 still boosts it by 1 point. Thus, a 
+character with a checked Proud trait of 24 who received a 20 on the experience check roll would increase his Proud 
+statistic to 25.
+
+The process is repeated for every check on your sheet. Each skill gets only one check per year, but any number of 
+skills may be checked. The number of successes achieved during play is not relevant: only one check can appear in any 
+box. The player determines the order in which he rolls for checks.
+
+If your primary squire has any checks, you may roll for each of his skills normally as well.
+
+## Step 3: Aging
+Increase your character’s age by one year. In game terms, all aging is done during the Winter Phase, regardless of your
+character’s actual birth date. Your squire(s) also age at this point, and a player knight’s squire is always replaced
+with a new 15-year-old squire upon reaching age 21.
+
+Aging eventually takes even the most gifted character out of play, usually around age 50 or later. When any attribute,
+even APP, reaches a value of 3 or less, the character is considered bedridden and may no longer participate in active
+play. A bedridden character no longer receives Glory unless circumstances are truly unusual, but continues to age. He
+may still give orders (which will probably be ignored), write a will, tell tales of his adventures, or take other
+actions that the Gamemaster permits. When any attribute reaches 0, the character dies.
+
+### Aging Procedure
+Every character of 35 years of age or more must roll on [Statistics Lost](#statistics-lost) table: Aging each winter. The
+ultimate result of aging may be a random reduction in one or more of the character’s statistics. For example, in a
+given year, a character might lose 1 point of STR and 1 point of CON, or 2 points of SIZ. In many years of aging, no
+statistics are lost at all; at worst, no more than 4 points can be lost in a single year’s aging.
+
+Roll 2d6 and consult the table to find the number of statistics affected by aging this year. The result from the
+[Aging Table](#aging-table) is the number of rolls you must then make on Table 5–3. For example, if the first roll is a
+4, you must roll twice on Table 5–3.
+
+#### Aging Table
+2d6 Result | No. of Stats Affected
+---------- | ---------------------
+2 | 4
+3 | 3
+4 | 2
+5 | 1
+6 - 8 | 0
+9 | 1
+10 | 2
+11 | 3
+12 | 4
+
+Rolling on the Statistics Lost table determines which statistic values, if any, are reduced by 1 point. For example, if 
+the [Aging Table](#aging-table) tells you to roll three times on the following table, and all three results are 2s, then
+your character loses 3 points of DEX. Note that a roll of 6 on the Statistics Lost table indicates that no statistic is
+lost from that particular die roll.
+
+A character may die as a result of rolling on this table if the result brings any statistic to 0.
+
+### Statistics Lost
+
+1d6 Result | Stat Reduced
+---------- | ------------
+1 | SIZ
+2 | DEX
+3 | STR
+4 | CON
+5 | APP
+6 | No loss
+
+When characters lose statistics from the [Aging Table](#aging-table) and [Statistics Lost](#statistics-lost) table,
+whether as a result of aging or from some other source, various natural forces such as disease or inimical magic are
+often blamed. Thus, for example, characters who suffer a loss of SIZ or STR may be said to have been "withered by the
+Evil Eye" or afflicted with "elf stroke"; loss of APP is commonly ascribed to the "pox." A loss of DEX is commonly
+referred to as "the palsy," while a loss of CON is likely attributed to "consumption."
+
+## Step 4: Economic Circumstances
+Every character must determine his situation as regards food, money, clothing, possessions, and holdings in consultation
+with the Gamemaster. An overall grade of maintenance must be established for your character. See
+[Standards of Living](#standards-of-living) to help make the appropriate determination.
+
+Ask the Gamemaster if anything important has happened to your character’s lands and economic needs, keeping notes as
+needed. Raids, unscheduled visits by a lord, or even faerie curses might reduce a knight’s economic circumstances,
+forcing a reduction in his grade of maintenance, while a very good harvest might let a knight increase his grade of
+maintenance.
+
+Gifts given by the lord to the knight, if any, should also be determined now, and any plunder or other valuable items
+gained during the last year should be evaluated for worth. (At this stage, buying and selling may be required to convert
+goods into cash.) Gifts and plunder may be substantial enough that a vassal knight can maintain or even increase his
+grade of maintenance, even though his lord has not directly provided for it.
+
+Now, based on the results of the above considerations, the player knight is assigned to one of the standard grades of
+maintenance. If nothing remarkable has occurred in terms of your character’s personal wealth, for good or ill, then your
+character uses the same grade of maintenance, if any, that he had last year.
+
+### Effects of Maintenance
+Based on his grade of maintenance, as determined above, a knight incurs various modifiers to rolls in subsequent steps of
+the Winter Phase. Keep track of these modifiers on a piece of scrap paper.
+
+#### Impoverished
+This is a disastrous economic state in which to find oneself, little better than the lot of a common peasant. No knight
+should suffer such a state if any alternative is available and consistent with the dictates of loyalty and honor.
+
+An Impoverished Knight suffers a –15 modifier on all rolls made during Step 5 and Step 6 of the Winter Phase, treating
+rolls of 0 or less as 1s. Further, his armor suffers a permanent 1-point loss of reduction value (applicable every winter)
+due to severe rust and neglect of proper repair and care. Finally, he must make a CON roll or lose 1 point of CON, as if
+through aging, due to the hardships of having insufficient shelter.
+
+However, even with all this to suffer, the knight loses no Glory, nor do his traits and passions change. The state of a
+knight’s reputation is independent of such petty issues as money.
+
+#### Poor
+This grade of maintenance is unfortunate but not disastrous. Many vassal knights (most player characters) may suffer this
+state for a year or two during their careers. Household knights have little control over their state of maintenance, and
+may be kept at this level if they are greatly disfavored by their lord or if their lord has himself become poor.
+
+The knight suffers a –3 modifier on all rolls made during Step 5 and on rolls on the Child Survival table during Step 6,
+treating rolls of 0 or less as 1s; for each consecutive year that knight has been Impoverished or Poor, he suffers an
+additional –3 modifier to these rolls, so that a knight who has been poor for 4 years suffers a –12 penalty. He also
+suffers a –5 modifier to his roll on the Childbirth table in Step 6.
+
+#### Ordinary
+Household knights are almost always maintained at this level. In general, vassal knights (most player characters) are
+capable only of maintaining themselves at this grade, unless they have gained wealth from plunder or ransoms.
+
+No special effects or modifiers apply. All tables are rolled on normally.
+
+#### Rich
+Lord knights are usually expected to maintain themselves at this grade. They normally have the resources to do so unless
+disaster or war strikes their lands. In rare instances, household knights whose lords are exceptionally wealthy may be
+kept at this grade.
+
+During Step 6, the knight receives a +1 modifier when rolling on the Child Survival table and a +3 modifier on the
+Childbirth table.
+
+#### Superlative
+Only the richest knights and greatest lords can maintain themselves at this grade. During Step 5, the knight receives
+a +2 modifier when rolling on the Horse Survival table and a +3 modifier on the Childbirth table. During Step 6, he
+receives a +3 modifier when rolling on the Child Survival table and a +5 modifier on the Childbirth table.
+
+### Clothing Value
+For all grades of maintenance, reduce the character’s best suit of clothing to half its previous value. This reflects the
+fact that even the most expensive formal clothes go quickly out of style, in addition to suffering normal wear and tear.
+New clothes can be purchased if the knight has the means (again, see [Standards of Living](#standards-of-living).
+
+## Step 5: Stable Rolls
+Every horse owned by the knight must be checked to see if it survived the winter. Horses may die, given bad luck or poor
+conditions of care.
+
+Roll d20 for each horse owned, applying appropriate modifiers.
+
+d20 Result | Horse's Fate
+---------- | ------------
+1 - 2 | Horse dies or is ruined
+3 or more | Horse remains healthy
+
+> _Note:  All horses suffer a –1 modifier for each year of the horse’s age beyond 7 years._
+
+Vassal knights may get new animals from their lord at some point during the following year’s scenario, as needed, to
+maintain the minimum stable of one charger, two rouncys, and one sumpter. Any additional or unusual horses (superior
+chargers, destriers, unique horses) that perish need not be replaced.
+
+## Step 6: Family Rolls
+Your character’s family already exists, but children are desirable, especially for a vassal knight. The ideal way to
+gain children is through marriage. Once a marriage is achieved, legitimate children are possible. The wife’s Glory and
+dowry are also desirable — see below.
+
+If your character is unmarried and wishes to remain so this winter, you may skip the marriage and childbirth portions
+of this step. (If you wish to roll on the childbirth table but not the marriage table, you may do that as well.)
+
+### Marriage
+When a player wishes his character to marry, the Gamemaster rules whether this honor is possible for the character at
+this point in the campaign. A marriage may require some roleplaying to find the wife; alternately, the Random Marriage
+table can be used. No characters start the game already married.
+
+Most knights’ marriages are one of two types — marriage below one’s class or marriage within one’s class. To marry above 
+your class, such as into a count’s or a duke’s holding, requires game play, not random die rolls.
+
+Any knight may choose to have “kept women” (i.e., those which are not wives), but they each require a fee of $10 per year. 
+If payment can’t be made, then the knight was unable to maintain the woman’s interest or health and she has departed. 
+Wives do not require extra payment of this kind; their costs are figured into the knight’s stipend or holding 
+(see [Standards of Living](#standards-of-living)).
+
+#### Below Your Class
+Use this course of action whenever your character wants to have a wife, no matter what or who. She is probably a handmaid 
+to your lord’s wife, a serving woman, an assistant seamstress to some rich merchant woman, or the younger sister of 
+another knight. Household knights usually marry this way.
+
+The Gamemaster should almost always permit this form of marriage, unless the character has been absent from home for 
+years or is impoverished and shamed, or unless the marriage would not fit in well with the scenarios he intends to run.
+
+The procedure is simple. Get permission from the character’s lord by making a Loyalty (lord) roll. If this roll is 
+successful, the lord grants you the boon to wed. If your knight has not already chosen an available woman, the lord 
+selects an appropriate match. Your are thus married to an ordinary woman who has a dowry of 1d6 and 10 Glory.
+
+If the Loyalty roll fails, your lord refuses you permission to wed, although you may ask again next winter. A fumble 
+might indicate that the lord was offended somehow, or that something humorous happened, but a fumble should never 
+indicate marriage to an unsuitable woman unless the Gamemaster and the player agree to it.
+
+#### Within Your Class
+For a vassal knight or higher noble, it may take time to find a likely candidate for marriage. The Gamemaster should 
+personalize potential wives who hold great dowries and have great Glory.
+
+To find an ordinary wife within your character’s class, make a Courtesy roll. If successful, you may either roll on the 
+Random Marriage table below, or wait a year. If you choose to wait until the next Winter Phase, write “met candidate 
+for marriage, still waiting” (or something to that effect) in your character’s history. You can wait for as many years 
+as you want, if there is no pressure from your lord.
+
+For each year you make a successful Courtesy roll but choose to wait for marriage, add a +1 modifier to the d20 die roll 
+on the Random Marriage table when you finally do roll. (If you fail your Courtesy roll during any year, you do not gain 
+the +1 for that year.)
+
+When you decide to roll for a marriage, you get only one chance. If you get what seems to be a poor match financially, 
+assume that the marriage provides some significant political benefit for your lord instead (which may or may not impact 
+your character directly).
+
+### Random Marriage
+
+d20 Result | Dowry | Glory
+---------- | ----- | -----
+1 - 4 | No holding, $1d3+6 | 10
+5 - 7 | 1 manor, $1d6 | 25
+8 - 17 | 1 manor, $1d6+3 | 50
+18 - 19 | 2 manors, $1d6+6 | 100
+20 or more | 2 manors, $2d6+6 | 250
+
+> _Note: The number of libra (£) is likely to be composed at least half of valuable items like rugs, hangings, furs,
+furniture, and the like._
+
+### Children
+Characters normally make a d20 roll on the Childbirth table once per year whether they are married or not, whether
+rolling for a wife, concubine, lover, camp follower, or simply a some woman they have encountered during play within
+the previous year.
+
+If the Gamemaster permits it, up to one annual childbirth roll may be attempted per wife, lover, or concubine, if
+sufficient opportunity was fulfilled during play to possibly allow conception.
+
+#### Childbirth
+
+d20 Result | Childbirth
+---------- | ----------
+1 - 10 | No children
+11 | Mother and child die at childbirth
+12 | Child born, but mother dies dies in childbirth
+13 | Twins born
+14 or more | Child born
+
+> _Note: Roll 1d6 for each child born, where an odd number = female, and even = male._
+
+After checking for new children, roll a d20 for each child the character has (if any) under 15 years of age — including
+the newborn — and consult the Child Survival table. Children who survive to age 15 are assumed to live to adulthood.
+
+#### Child Survival
+
+d20 Result | Consequence
+---------- | -----------
+1 - 2 | Child dies
+3 - 10 | Child is ill, but lives
+11 or more | Child lives
+
+### Family Events
+This section determines whether any important or unusual events occur in your extended family. Note that the fathers and
+grandfathers of player knights created in this book are already dead, and all inherited Glory and items already gained
+thereby.
+
+Each character rolls once per winter on the Family Events table.
+
+#### Family Events Table
+
+d20 Result | Consequence
+---------- | -----------
+1 - 2 | Death in family
+3 - 7 | Marriage in family
+8 - 12 | Birth in family
+13 - 15 | Family member is missing or lost
+16 - 18 | No event
+19 - 20 | Rumor of scandal (roll on [Scandalous Rumors](#scandalous-rumors)
+
+#### Scandalous Rumors
+d20 Result | Consequence
+---------- | -----------
+1 | Insulted a lord
+2 - 3 | Cheated at a tournament
+4 | Impoverished, badly in debt
+5 - 7 | Adulterer
+8 | Kidnapper
+9 - 10 | Horse-thief
+11 - 16 | Illicit love affair
+17 | Murderer
+18 | Heretic
+19 | Necromancer
+20 | Roll again (Re-rolls 20s), but this time the rumor is proved true!
+
+Next, roll on the table below to find the person most directly affected by the result of the event discovered. If the
+result is ridiculous, like someone remarrying while their spouse is still alive or your grandmother being a horse-thief
+(or anyone who is already dead taking any action!), then re-roll.
+
+#### Impacted Family Member Table
+d20 Result | Family Member
+---------- | -------------
+1 - 3 | Father
+4 - 6 | Mother
+7 - 10 | Brother
+11 - 14 | Sister
+15 | Uncle
+16 | Aunt
+17 | Grandfather
+18 | Grandmother
+19 - 20 | Cousin
+
+## Step 7: Training and Practice
+This step includes any weapon training or practice done over the winter, and allows deliberate changes to attributes,
+traits, and passions.
+
+If the Gamemaster permits it, your knight’s squire can also increase one or more of his three primary skills (listed on
+the character sheet) at this time, using the same choices as your knight.
+
+During this step, you may choose to do any one of the following three things:
+
+### Choice 1: Gain 1d6 + 1 Points in Skills (To Max 15)
+Roll 1d6+1 for the number of points available to you to improve your skills. Any combination of one or more skills or
+combat skills may be improved, but you may not improve a NonKnightly skill in this way, and no skill may be raised to
+ higher than 15.
+
+### Choice 2: Gain 1 Point in a Skill (To Max 20)
+You may increase any one skill by 1 point, to a maximum value of 20. Skills can go beyond 20 only by means of experience
+or Glory. (See [Step 2](step-2-experience-rolls) and [Step 9](#LINK-ME).)
+
+### Choice 3: Improve an Attribute, Trait, or Passion
+You may raise or lower any one attribute, trait, or passion value by 1 point. (Keep in mind that altering a trait this
+always also alters the value of the opposite trait as well.) Several restrictions apply: No trait can be increased to
+over 19, and passions cannot be increased over 20. No attribute can be raised higher than its maximum cultural value
+(see Character Generation). A character’s SIZ may not be increased after he reaches age 21; further, a character
+cannot increase any other attribute (STR, DEX, CON, or APP) after he reaches age 35.
+
+## Step 8: Compute Glory
+During the winter, all Glory gained during the previous year’s play is computed. The total is then added to the current
+number in the main [Glory](#glory) box on the character sheet. The sequence is one of the high points of the game for
+many players, as they see their character’s fame and prestige increase through [Glory](#glory).
+
+Check with the Gamemaster to be sure you record all the various Glory awards correctly. See [Glory](#glory).
+
+### Glory from Play
+This is the primary source of Glory. If you participated in a scenario last game year, the Glory gained by your character
+should already be written in the “Glory this Game” box on the character sheet, and ideally recorded in detail on the
+back of the sheet with a date attached. For example, if you killed a bear while hunting, you might have recorded an
+award of 10 Glory.
+
+Transfer the Glory from “Glory this Game” into the main “Glory” box, adding the two totals together for your current
+total Glory.
+
+### Glory from Solo Scenario
+Your character may have gone through a solo scenario at the beginning of this Winter Phase. With Gamemaster approval,
+Glory may have been gained thereby. For example, the solo scenario entitled “Your Own Land” (see Appendix 3) might have
+gained you special Glory equal to your Just trait.
+
+### Glory from Unique Honors
+If any special honor or ambition was achieved last year, such as marriage to an heiress, this honor should have been
+recorded on the back of the character sheet. Review your character’s achievements for the previous year.
+
+### Annual Glory
+Many sources of Glory accrue annually. For example, holding a motte-and-bailey castle gains you 8 Glory per year. Annual
+Glory accrues now.
+
+## Step 9: Glory Bonuses
+The final step of the Winter Phase is to add any bonus points gained from high Glory to the character’s attributes. A
+bonus point is gained whenever your total Glory exceeds 1,000 points, and for every additional 1,000 points thereafter.
+(For example, a knight’s Glory might increase from 1,800 to 3,010 in an extraordinary year, yielding 2 bonus points for
+that year.)
+
+Bonus points must be spent now, as soon as they become available. Each point may be applied directly to an attribute,
+trait, passion, skill, or combat skill, increasing that statistic by 1 point. Only two restrictions apply to this
+increase: No character may increase his attributes beyond their racial maximums, and no character past age 21 can
+increase his SIZ stat.
+
+If you increase an attribute score, recalculate any derived statistics related to that attribute. 
+
+If a trait or passion has just been increased to 16 or higher by means of a bonus point, you do not gain Glory from that 
+trait or passion until next year’s Winter Phase. The same is true for Glory gained if a character now qualifies for a 
+Religious bonus (see “Magical Virtues” in Chapter 4), but the bonus itself (the +3 armor reduction bonus from Armor of
+Honor, for example) is gained immediately and may be used during the coming year’s scenarios.
+
+# Standards of Living
+The daily measure of wealth is that which can be seen and partaken of. Rich people eat better, wear fancier clothes,
+and have more luxurious homes. Knights, as members of the noble class, wear very nice clothing and eat well, whether
+at their lord’s board or in their own manor. A normal vassal knight — i.e., the typical player knight — has an ordinary
+knightly standard of living (spending from $6 to $8 per year), as shown below in [Grades of Maintenance](#grades-of-maintenance).
+
+It is interesting and useful to compare knights’ standards with those of a typical peasant family of two adults and 
+three children: The common peasant exists in a self-sufficient world where money is unknown, and the family makes, grows,
+or barters for everything it needs. However, in monetary value, annual expense and income for the whole peasant family 
+equals about $1 per year.
+
+## Grades of Maintenance
+The economic situation (or “grade”) of a knight is quantified by the annual income allotted to him during each
+[Winter Phase](#winter-phase). Five grades of knight exist for this purpose: Impoverished, Poor, Ordinary, Rich, and
+Superlative.
+
+### Impoverished
+A knight with an income of less than $3 per year is Impoverished. His is a miserable lot. He appears ragged, most likely 
+lean and sickly, and his armor pitted and rusty. He has no squire and often lacks a horse of any kind. As a result, an 
+Impoverished knight counts only as a sergeant in battle (see “Ransom and Blood Price”), even though he may be far more 
+skilled or valorous. Legally, impoverishment means trouble.
+
+An Impoverished household knight is not required to remain loyal to his lord since, under the feudal oath, his lord 
+promised him sustenance. He may leave or may be sent away on a quest by the hapless lord.
+
+On the other hand, if a vassal knight neglects his land to the point of impoverishment, the lord has the right to cancel 
+their agreement and take the land back: The vassal has clearly failed to maintain the land and uphold his end of the 
+feudal bargain.
+
+> **Glory**: No Glory is gained during the Winter Phase for suffering the life of an Impoverished knight.
+
+### Poor
+Poor knights are, for whatever reason, unable to maintain themselves in the manner in which they ought. A knight who
+receives between $3 and $5 per year is considered Poor. (A nearby sidebar expounds upon this state of relative poverty.)
+In general, a Poor knight has no squire; rides a mangy, sway-backed horse; is hungry, lean, and ragged; and wears armor
+in a sad state of disrepair.
+
+> **Glory**: No effect. There is no shame, but no special fame, in being a poor knight.
+
+### Ordinary
+Ordinary knights are those most often discussed in Pendragon; generally, whenever the word “knight” is used, unmodified
+by another adjective, it refers to a character of this economic standing. Ordinary knights comprise the majority of
+chivalry. Player knights always begin the game as Ordinary knights in terms of economic quality.
+
+An Ordinary knight receives $6 to $8 per year in money and food, which keeps himself, his family, a single squire, and
+his horses in a healthy and robust manner of living, and his equipment in good repair. This may be provided by his lord,
+or by a normal manor.
+
+> **Glory**: No effect.
+
+### Rich
+Rich knights receive between $9 and $12 per year to spend on their maintenance, an amount significantly above normal
+standards. Their families live well off the fat of the land.
+
+Rich knights usually wear clothing of rich fabrics and furs in the latest style, have ornate silver-decorated tack for
+their glossy-coated horses, and regularly enjoy rich feasts. They typically have two squires in attendance, both being
+well-mounted and attentive to their knight’s needs.
+
+> **Glory**: Knights who live above their expected means (i.e., more than $8 per year) gain Glory equal to the annual
+number of maintenance libra spent; thus, a knight who has $11 per year also gains 11 Glory per year.
+
+If a lord supplies this maintenance, rather than the knights’ getting the money themselves, the lord also gains a like
+amount of Glory.
+
+### Superlative
+Superlative knights are the most extravagant and impressive of all, requiring $13 per year or more for upkeep. Their
+armor shines brightly, and their clothing is sumptuous, with intricate stitching, extensive use of gold thread, jewels,
+imported feathers, and furs from fantastic beasts. Three squires, each proud in matching livery, typically attend the
+knight’s needs.
+
+Superlative knights also benefit from superior health and the aid of well-equipped, loyal squires in battle.
+
+> **Glory**: As noted under Rich knights, above, knights who live above their expected means gain additional annual
+Glory based on their income.
