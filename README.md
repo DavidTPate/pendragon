@@ -79,6 +79,18 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
     - [Awareness (Knightly)](#awareness-knightly)
     - [Boating (Knightly)](#boating-knightly)
     - [Chirurgery (Non-Knightly)](#chirurgery-non-knightly)
+    - [Compose (Knightly)](#compose-knightly)
+    - [Courtesy (Knightly, Knowledge)](#courtesy-knightly-knowledge)
+    - [Dancing (Knightly)](#dancing-knightly)
+- [Stats](#stats)
+  - [Dexterity Roll](#dexterity-roll)
+    - [Balance](#balance)
+    - [Climb](#climb)
+      - [Slipperiness](#slipperiness)
+    - [Jump](#jump)
+    - [Sneak](#sneak)
+    - [Throw](#throw)
+      - [Thrown Weapons](#thrown-weapons)
 - [Winter Phase](#winter-phase)
   - [Step 1: Solo Scenarios](#step-1-solo-scenarios)
   - [Step 2: Experience Rolls](#step-2-experience-rolls)
@@ -131,6 +143,8 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
       - [Regaining Hit Points](#regaining-hit-points)
       - [Unconscious](#unconscious)
       - [Zero or Negative Hit Points](#zero-or-negative-hit-points)
+- [Adventuring](#adventuring)
+  - [Questing](#questing)
 
 <!-- tocstop -->
 
@@ -882,7 +896,7 @@ practice, these skills are gradually raised to a value of 20. Thereafter, experi
 (see [Obtaining Experience](#obtaining-experience)) and Glory can raise each skill into the realm of truly heroic mastery.
 
 ## Skill Categories
-Skills are divided into two broad categories: ordinary skills (normally referred to as simply “skills”), which include a
+Skills are divided into two broad categories: ordinary skills (normally referred to as simply "skills"), which include a
 wide range of different practical proficiencies and areas of knowledge, and combat skills, the crucial military skills
 that are the traditional area of expertise for knights. The two categories are listed in two separate areas on the
 knight’s character sheet, and are described in separate sections below.
@@ -933,7 +947,7 @@ Use this skill when a knight is listening for a sound, trying to spot a hidden P
 or otherwise draw some sensory information from his surroundings.
 
 This skill measures the character’s attentiveness to his immediate surroundings, using both his five physical senses and
-the mysterious “sixth sense.” A critical success might reveal extra information (such as the precise location of the
+the mysterious "sixth sense." A critical success might reveal extra information (such as the precise location of the
 bandits hiding in the trees, as opposed to the simple realization that there are bandits there), while a fumbled
 Awareness roll reveals incorrect information.
 
@@ -949,20 +963,210 @@ A success with the Boating skill can gain the character Glory if lives were save
 ### Chirurgery (Non-Knightly)
 This ancient practice of healing includes much useful knowledge, such as herbal medicine and bone setting. It also
 includes superstition, prayer, and generous heaps of misinformation. Thus, its use is fraught with uncertainty.
-Chirurgery (pronounced approximately “KY-rir-jur-ee”) does little to heal the patient directly, but is a process that
+Chirurgery (pronounced approximately "KY-rir-jur-ee") does little to heal the patient directly, but is a process that
 seeks only to keep the patient alive so that the natural healing processes of the body may take effect.
 
 Chirurgery is a most important skill for women, though many priests and monks also know it. However, it is not the duty
 of a knight to learn this skill, and most knights would feel highly uncomfortable performing a skill associated with women.
 
 Badly wounded, ill, or debilitated characters often require application of the Chirurgery skill. If your character needs
-Chirurgery, for whatever reason, the Gamemaster tells you to check the box on the character sheet entitled “Chirurgery Needed.”
+Chirurgery, for whatever reason, the Gamemaster tells you to check the box on the character sheet entitled "Chirurgery Needed."
 
 Glory should always be gained for successful use of the Chirurgery skill. The amount gained can be increased in
 proportion to the Glory or rank of the character being treated if the Gamemaster feels this is appropriate. More
  Glory should be gained if a life was saved thereby.
 
-See [Injury and Health”](#injury-and-health) in for more information on the complicated processes of chirurgery and healing.
+See [Injury and Health"](#injury-and-health) in for more information on the complicated processes of chirurgery and healing.
+
+### Compose (Knightly)
+This skill grants the user a chance to create original musical works for voice or for one or more medieval instruments.
+The quality of the piece composed is relative to the number rolled for the success. The composer’s ability to perform his
+work is limited by his Play (instrument) and Singing skills, as appropriate.
+
+A critical success indicates that the piece created has great beauty, quality of rhyme and emotion, originality, and
+perhaps spontaneity. A piece of this quality might bring a listener to tears, or even more.
+
+A fumble indicates an embarrassingly bad piece.
+
+The Gamemaster may award Glory to a successful composer, particularly if the song is dedicated to a lady.
+
+### Courtesy (Knightly, Knowledge)
+Courtesy is a knowledge skill defining a knight’s knowledge of courtly manners, from etiquette to matters of precedence
+and table manners; from modes of speech, including protocol, vocabulary, style, and forms of address, to all types of
+decorum appropriate to a lord’s court, such as around superiors, around women, and around disfavored people.
+
+The default starting Courtesy value of 3 indicates that the character understands simple matters of precedence and knows
+the basic forms of address at court. Courtesy does not include dance, heraldry, or forms of the tournament. These areas
+of expertise are so complicated that they are treated as separate skills.
+
+A successful Courtesy roll means that the knight performed correctly in the formal manner appropriate to the relative
+situation, making a suitable impression upon his audience. Courtesy is inappropriate for use with commoners.
+
+A critical success indicates great elegance and style in the performance. A fumble indicates that a silly or even
+offensive act occurred, with consequent humiliation. Haughty or cruel lords may become insulted and angry at characters
+who fumble their Courtesy roll in court, possibly with dramatic consequences.
+
+Glory may be gained by any significant use of Courtesy in court or any formal situation, particularly with a critical
+success.
+
+> **Special**: With the Gamemaster’s approval, characters having high Glory may receive a positive modifier to Courtesy,
+with a maximum modifier equal to Glory/1,000.
+
+### Dancing (Knightly)
+This skill measures the character’s ability to move gracefully to music, as well as his knowledge of the many styles of
+formal dancing done at court. This elegant style of dancing depends primarily on experience and knowledge of forms rather
+than on agility.
+
+A success indicates accurate adherence to the accepted form of the dance being performed, while a critical success
+indicates superb grace, verve, and perhaps spontaneity
+
+A fumble means that the character went the wrong way, probably bumping into other dancers. The Gamemaster may even rule
+that the fumbler tripped and fell over his own feet. A fumbled Dance roll is invariably a humiliating experience.
+
+Glory can be gained from successful Dance rolls if the dancer(s) are the center of attention.
+
+> **Special**: With the Gamemaster’s approval, characters having high Glory may receive a positive modifier to Dance,
+with a maximum modifier equal to Glory/1,000.
+
+# Stats
+
+## Dexterity Roll
+Game play presents countless hazards and difficulties that challenge your player knight’s agility, reactions, or
+movement-related abilities such as climbing, sneaking, and balancing. All these situations use a DEX roll, usually
+unopposed, to determine success.
+
+The Gamemaster may find other occasions to use the DEX roll as well.
+
+> **Critical Successes and Fumbles**: As with most attribute rolls, success and failure are usually the only possible
+results of a DEX roll — neither a critical success nor a fumble gives any special result
+
+However, several special uses of the DEX roll, such as brawling and sneaking, are an exception to this pattern.
+Furthermore, the Gamemaster may allow critical success or failure in a particular situation: If storytelling is enhanced,
+by all means let a critical DEX success gain some extra benefit, or a fumble extract a special penalty.
+
+> **Modifiers**: Many situations in which the DEX roll is used require negative modifiers. A few usages gain positive
+modifiers. Each particular use of the DEX roll below lists specific suggestions for modifiers in addition to the general
+points given here. Modifiers from sources such as Passions apply to DEX rolls, as they do to all rolls. In borderline
+situations, the Gamemaster decides whether a modifier to DEX is appropriate.
+
+For actions involving agility or movement, such as climbing or dodging, DEX is reduced by encumbrance, as shown on the chart below.
+
+Encumbrance | DEX Modifier
+----------- | ------------
+Light load | -5
+Heavy load | -10
+
+> _In addition, armor penalizes DEX rolls, as shown in Table 6–1: Armor._
+
+Cumulative modifiers may be applied to DEX rolls. For example, an climber attempting to clamber up a slope in leather 
+armor while carrying a wounded knight on his back might suffer a –15 penalty or even worse to DEX. Realistically, 
+certain feats are virtually (if not actually) impossible, and a negative modifier should support this.
+
+### Balance
+The balance roll is one of the most common types of DEX roll. Whenever an unmounted character receives a Knockdown result 
+in combat (see Chapter 6), he must make a DEX roll to remain upright. Balance might also be tested when a character 
+wishes to cross a narrow bridge, stay afoot on the heaving deck of a ship, or stay upright when the earth shakes from 
+magic.
+
+Encumbrance is not used to modify a DEX roll for balance unless the Gamemaster decides that it should, based on the 
+circumstances. However, difficult footing may impose a negative modifier as usual.
+
+If the balance roll is successful, the character remains upright; if not, he falls down. A critical success on a balance 
+roll gains no special advantage unless the situation presents an obvious extra benefit. A fumble does no further harm than 
+a failure, though, either.
+
+Once knocked down, a character needs no roll to get up again, even if in heavy armor. However, in combat he must fight 
+from a disadvantage while clambering back to his feet: He suffers a –5 modifier to his weapon skills, while any opponents 
+gain a +5 modifier. See the “Combat” chapter  for more information on the complicated issues of combat modifiers and 
+actions during a melee round. Footing: Most balance rolls should receive a negative modifier when attempted upon rough, 
+narrow, or unstable surfaces, as appropriate. For example, a character attempting to balance as he walks across on a 
+narrow wooden beam over a chasm should receive a penalty. Usually, this negative modifier should be no more than –10.
+
+### Climb
+A character may attempt to clamber up a surface using a DEX roll. If it is a relatively easy climb, such as up a sand
+dune, the DEX roll might be made without modification, if required at all. Otherwise, a modifier is applied, as shown below.
+
+Slope | DEX Modifier
+----- | ------------
+Tough climb (eg. rough vertical wall) | -5
+Difficult climb (eg. smooth vertical wall | -10
+
+> _Ropes or convenient vines may add to the chance of success. A rope gives a +5 modifier, while a proper ladder gives a 
++10 modifier. Siege ladders, which may have suffered hasty construction or damage from usage or defenders, grant a 
+modifier of +5 to +10 (1d6+4)._
+
+Encumbered characters (such as those wearing armor) while climbing also suffer the usual modifiers to DEX.
+
+Normally, one DEX roll is made per 30 feet of height or fraction thereof. Therefore, a 65-foot tower would require three
+successful DEX rolls to climb.
+
+#### Slipperiness
+Most climb rolls should receive a negative modifier for slippery surfaces, as appropriate. For example, a character 
+attempting to climb a wet, moss-covered wall should receive a penalty. Usually, this negative modifier should be no 
+more than –10
+
+### Jump
+A character may jump horizontally to cross a wide chasm or hole, or vertically up or down. Both types of jump require a
+DEX roll. Encumbered characters who are jumping suffer the usual modifiers to DEX. As well, a jump may have a modifier for
+difficulty assigned to it, based on the distance in yards. (This is intended to make certain jumps impossible, as they
+should be.)
+
+For simplicity’s sake, a jump’s distance imposes a –3 modifier per yard of distance beyond the first. For this purpose,
+treat each fraction of a yard as a full yard. Assume that a horizontal leap also has a vertical component equal to half
+its length, but this imposes no further penalty.
+
+Thus, for example, a 1-yard-high wall imposes no modifier to DEX for jumping (most relatively fit people can jump that
+high without much trouble), while a 7-foot-high wall imposes a –6 penalty to DEX (round to 3 yards, with a –3 penalty
+for each yard beyond the first).
+
+A 9-foot-wide ditch imposes a –6 penalty to DEX for characters trying to jump across, making the jump difficult, yet
+possible for an agile character. A moat 22 feet across imposes a –21 modifier (round to 8 yards, with a –3 penalty for
+each yard beyond the first) — it is simply too wide ever to jump, even for naked, screaming Picts.
+
+Keep in mind that realism should always assert itself in these situations: No human can cleanly hurdle a 10-foot wall,
+for example, even with a critical success, but a fit person can capably jump up and haul himself to the top.
+
+### Sneak
+Stealth and detection are complicated subjects, and the Gamemaster should be ready to adjust or augment the basic rules 
+given here as needed.
+
+If a character wishes to sneak up on someone, he makes a DEX roll. Any character who might reasonably have a chance to 
+observe the character makes an opposed Awareness roll. (See “Opposed Rolls” in Chapter 5.) If both sneaker and observer 
+fail their rolls, the Gamemaster should decide what happens based on the circumstances.
+
+Unlike most DEX rolls, a critical success on a sneak roll has a distinct effect: It always succeeds unless the opponent
+also achieves a critical, in which case a tie results, meaning that the sneaker moves forward, but the victim is alerted 
+that something suspicious is going on. Conversely, a fumble while sneaking ensures detection.
+
+Standard rules for encumbrance do not apply while sneaking: Instead, a character suffers only a –5 modifier for metal armor 
+or a heavy load, and no penalty for sneaking in leather armor or with a light load.
+
+Circumstances may provide modifiers to the DEX roll. For example, abundant cover or ambient noise might grant a +5 modifier 
+(or even +10 if the benefit is substantial, such as a loud waterfall nearby or a sudden fire lighting the sky, accompanied 
+by faint shouting from a different direction). Similarly, if the potential observer is engaged in an activity rather than 
+devoting his attention to watching and listening for intruders, he should suffer a –5 or greater penalty on his Awareness 
+roll.
+
+### Throw
+To have your character throw a rope to a drowning person or hurl a stunned enemy over the parapet, use a DEX roll. Success
+indicates that the objective was achieved. The Gamemaster rules on the modifier, if any, that should be applied to the task.
+Throwing a heavy object at a tiny target far away might suffer a –10 modifier, while a throw from the top of a wall at a
+huge target below might gain a +10 modifier.
+
+Encumbrance or footing does not normally hinder a throw unless the Gamemaster feels the circumstances warrant a negative
+modifier.
+
+#### Thrown Weapons
+If damage is intended to a target, the Javelin skill might be used if it seems appropriate. However, if a character
+wishes to heave a boulder from a cliff or hurl a stool at a nearby foe, for instance, he should make a DEX roll as if
+it were a ranged combat skill; a successful attack roll deals damage as if with a brawling attack. (See both “Ranged
+Attacks” and “Brawling” in Chapter 6.)
+
+A critical success indicates that double damage is dealt, as with any attack, while a fumble might hit a nearby ally,
+object, or surface instead of the intended target.
+
+The maximum range for any object that may be hurled as a weapon should be decided by the Gamemaster, but should rarely
+exceed 20 yards.
 
 # Winter Phase
 Winter is the time for rest, recuperation, and character growth. During this time, knights engage in training, amorous
@@ -1159,7 +1363,7 @@ table can be used. No characters start the game already married.
 Most knights’ marriages are one of two types — marriage below one’s class or marriage within one’s class. To marry above 
 your class, such as into a count’s or a duke’s holding, requires game play, not random die rolls.
 
-Any knight may choose to have “kept women” (i.e., those which are not wives), but they each require a fee of $10 per year. 
+Any knight may choose to have "kept women" (i.e., those which are not wives), but they each require a fee of $10 per year. 
 If payment can’t be made, then the knight was unable to maintain the woman’s interest or health and she has departed. 
 Wives do not require extra payment of this kind; their costs are figured into the knight’s stipend or holding 
 (see [Standards of Living](#standards-of-living)).
@@ -1185,8 +1389,8 @@ For a vassal knight or higher noble, it may take time to find a likely candidate
 personalize potential wives who hold great dowries and have great Glory.
 
 To find an ordinary wife within your character’s class, make a Courtesy roll. If successful, you may either roll on the 
-Random Marriage table below, or wait a year. If you choose to wait until the next Winter Phase, write “met candidate 
-for marriage, still waiting” (or something to that effect) in your character’s history. You can wait for as many years 
+Random Marriage table below, or wait a year. If you choose to wait until the next Winter Phase, write "met candidate 
+for marriage, still waiting" (or something to that effect) in your character’s history. You can wait for as many years 
 as you want, if there is no pressure from your lord.
 
 For each year you make a successful Courtesy roll but choose to wait for marriage, add a +1 modifier to the d20 die roll 
@@ -1325,16 +1529,16 @@ Check with the Gamemaster to be sure you record all the various Glory awards cor
 
 ### Glory from Play
 This is the primary source of Glory. If you participated in a scenario last game year, the Glory gained by your character
-should already be written in the “Glory this Game” box on the character sheet, and ideally recorded in detail on the
+should already be written in the "Glory this Game" box on the character sheet, and ideally recorded in detail on the
 back of the sheet with a date attached. For example, if you killed a bear while hunting, you might have recorded an
 award of 10 Glory.
 
-Transfer the Glory from “Glory this Game” into the main “Glory” box, adding the two totals together for your current
+Transfer the Glory from "Glory this Game" into the main "Glory" box, adding the two totals together for your current
 total Glory.
 
 ### Glory from Solo Scenario
 Your character may have gone through a solo scenario at the beginning of this Winter Phase. With Gamemaster approval,
-Glory may have been gained thereby. For example, the solo scenario entitled “Your Own Land” (see Appendix 3) might have
+Glory may have been gained thereby. For example, the solo scenario entitled "Your Own Land" (see Appendix 3) might have
 gained you special Glory equal to your Just trait.
 
 ### Glory from Unique Honors
@@ -1360,7 +1564,7 @@ If you increase an attribute score, recalculate any derived statistics related t
 
 If a trait or passion has just been increased to 16 or higher by means of a bonus point, you do not gain Glory from that 
 trait or passion until next year’s Winter Phase. The same is true for Glory gained if a character now qualifies for a 
-Religious bonus (see “Magical Virtues” in Chapter 4), but the bonus itself (the +3 armor reduction bonus from Armor of
+Religious bonus (see "Magical Virtues" in Chapter 4), but the bonus itself (the +3 armor reduction bonus from Armor of
 Honor, for example) is gained immediately and may be used during the coming year’s scenarios.
 
 # Standards of Living
@@ -1375,14 +1579,14 @@ or barters for everything it needs. However, in monetary value, annual expense a
 equals about $1 per year.
 
 ## Grades of Maintenance
-The economic situation (or “grade”) of a knight is quantified by the annual income allotted to him during each
+The economic situation (or "grade") of a knight is quantified by the annual income allotted to him during each
 [Winter Phase](#winter-phase). Five grades of knight exist for this purpose: Impoverished, Poor, Ordinary, Rich, and
 Superlative.
 
 ### Impoverished
 A knight with an income of less than $3 per year is Impoverished. His is a miserable lot. He appears ragged, most likely 
 lean and sickly, and his armor pitted and rusty. He has no squire and often lacks a horse of any kind. As a result, an 
-Impoverished knight counts only as a sergeant in battle (see “Ransom and Blood Price”), even though he may be far more 
+Impoverished knight counts only as a sergeant in battle (see "Ransom and Blood Price"), even though he may be far more 
 skilled or valorous. Legally, impoverishment means trouble.
 
 An Impoverished household knight is not required to remain loyal to his lord since, under the feudal oath, his lord 
@@ -1403,7 +1607,7 @@ in a sad state of disrepair.
 > **Glory**: No effect. There is no shame, but no special fame, in being a poor knight.
 
 ### Ordinary
-Ordinary knights are those most often discussed in Pendragon; generally, whenever the word “knight” is used, unmodified
+Ordinary knights are those most often discussed in Pendragon; generally, whenever the word "knight" is used, unmodified
 by another adjective, it refers to a character of this economic standing. Ordinary knights comprise the majority of
 chivalry. Player knights always begin the game as Ordinary knights in terms of economic quality.
 
@@ -1441,7 +1645,7 @@ Glory based on their income.
 # Combat Rules
 
 ## Injury and Health
-The raison d’etre of the knight is to ﬁght, and much of the action in the game revolves around personal or military
+The raison d’etre of the knight is to fight, and much of the action in the game revolves around personal or military
 combat — which often results in injury, whether minor or mortal. Knights expect to take injury, and they wear their
 many scars proudly.
 
@@ -1463,24 +1667,24 @@ points. In essence, though, a character with only half his hit points is half-de
 
 #### Losing Hit Points
 As damage is taken during the game, hit points are lost. The player records this loss, in pencil, using the workspace
-on the character sheet labeled “Current Hit Points.”
+on the character sheet labeled "Current Hit Points."
 
 Characters may lose hit points from many different sources. Some forms of damage cause wounds, while some act directly
 on hit points. Fatigue alone never causes hit point loss.
 
 Once injured, characters may lose further hit points through illness, infection, excess activity, blood loss, or worse.
-These factors are summarized under the “Deterioration and Aggravation” rules below. Deterioration may be prevented by
+These factors are summarized under the "Deterioration and Aggravation" rules below. Deterioration may be prevented by
 the unsophisticated medicine of the times, known as Chirurgery. Aggravation is caused by excessive activity while a
 character is already injured or ill, and may be averted only by avoiding such activity.
 
 #### Regaining Hit Points
-A character’s recovery from injury is a natural bodily process, which is quantiﬁed as that character’s Healing Rate,
+A character’s recovery from injury is a natural bodily process, which is quantified as that character’s Healing Rate,
 calculated as (STR + CON) ÷ 10. Characters normally recover a number of hit points equal to their Healing Rate every
 week (on Sunday at noon, in fact), although the Gamemaster may adjust this schedule if necessary.
 
 The First Aid skill lets the injured character regain hit points immediately, and ensures that bleeding is stopped,
 infection prevented, and so forth. A critical success with the Chirurgery skill augments a patient’s Healing Rate.
-(See [First Aid](#first-aid) and [Chirurgery”](#chirurgery))
+(See [First Aid](#first-aid) and [Chirurgery"](#chirurgery))
 
 Magical healing may cure hit points or otherwise magically improve a character’s health, at the Gamemaster’s option. As
 always, the details of healing magic are secrets known only to the Gamemaster (and to a few unique Gamemaster characters).
@@ -1492,24 +1696,60 @@ As a character loses hit points, he reaches a point at which he becomes unconsci
 represented by the Unconscious statistic, equal to Total Hit Points ÷ 4.
 
 Characters with current hit points below the Unconscious value are out of action. At the moment a character goes below
-this threshold, he slumps slowly to the ground, possibly staggering a few yards ﬁrst or sliding gently off his horse
+this threshold, he slumps slowly to the ground, possibly staggering a few yards first or sliding gently off his horse
 before collapsing. (A DEX roll is allowed for a mounted character who becomes unconscious, with success indicating that
 any falling damage is averted; otherwise, he takes another 1d6 points from the fall.)
 
 The Gamemaster may wish to let unconscious characters have brief periods of lucidity. With Gamemaster approval, they may
 be allowed to speak quietly. For example, they might be capable of slowly dictating a will, praying for divine guidance,
-or describing an assailant in a weak whisper. (See the “A Fight to the Death” sidebar.)
+or describing an assailant in a weak whisper. (See the "A Fight to the Death" sidebar.)
 
-Since they have been gravely injured, unconscious characters are considered unhealthy (see “States of Health”) and must
-check the “Chirurgery Needed” box on their character sheet immediately. They require chirurgery until the Gamemaster says
+Since they have been gravely injured, unconscious characters are considered unhealthy (see "States of Health") and must
+check the "Chirurgery Needed" box on their character sheet immediately. They require chirurgery until the Gamemaster says
 otherwise.
 
-Example of Injury and Unconsciousness: In a tremendous ﬁght, Sir Ambrut is victorious over two Saxon assailants. Ambrut
-takes no Major Wound in the ﬁght due to his heroic CON of 21. However, he takes many minor injuries, including a fall
+Example of Injury and Unconsciousness: In a tremendous fight, Sir Ambrut is victorious over two Saxon assailants. Ambrut
+takes no Major Wound in the fight due to his heroic CON of 21. However, he takes many minor injuries, including a fall
 from his horse, for a total of 26 points of damage, leaving him with 8 current hit points.
 
-Since 8 is below Ambrut’s Unconscious value of 9, the sorely wounded knight staggers into a wood near the battleﬁeld and
-falls unconscious. His player checks Ambrut’s “Chirurgery Needed” box at once.
+Since 8 is below Ambrut’s Unconscious value of 9, the sorely wounded knight staggers into a wood near the battlefield and
+falls unconscious. His player checks Ambrut’s "Chirurgery Needed" box at once.
 
 #### Zero or Negative Hit Points
 Page 124
+
+# Adventuring
+A primary activity of all the famous knights during Arthur’s time and after is to adventure. Adventuring, in fact, is the 
+activity that sets famous knights apart from those lesser knights who stay at home and acquire Glory passively (i.e., 
+while out of play).
+
+Adventuring is recognized as a legitimate knightly duty by the Arthurian court, one every bit as important as one’s duty 
+to stand garrison and serve an active 40 days in the field. Most knights do not take the job, though. For them, the 
+everyday activities of guard duty, tournaments, and battles are enough to satisfy their sense of adventure.
+
+Other knights (like the player knights, we hope), seek more and thus undertake dangerous and glorious quests. Most of 
+the lords of Logres are in favor of this new "sport" of adventuring, and are happy to oblige those knights who wish to 
+engage in it. The lull of peace following Arthur’s rise leaves castles full of boisterous fighters with nothing to fight. 
+Adventuring sends the knights to work off their energy elsewhere, perhaps far away from Logres. Undoubtedly, the lord 
+hopes that the questing knights’ vigor will arouse something from his other less enthusiastic knights, as well.
+
+Adventures abound. Even stay-at-home knights have a few adventures as part of their routine, without having to go far to
+seek them out. Such adventures include going to tournaments, participating in battles, engaging in romance, visiting
+unusual sites, and encountering unusual beings.
+
+## Questing
+If knighthood is the heart of Pendragon, questing is its soul. A quests includes adventures, but not all adventures are
+quests. A quest is a protracted series of adventures that must also include the following elements to qualify as such: 
+going to an unknown place, encountering something mysterious or unusual, facing unusual dangers, and facing death. 
+Quests must, by definition, occur in strange lands where High Adventure and opportunity wait to test the neat ideals of 
+the heartland of civilization.
+
+To go on a quest, a knight must request a leave from their normal duties to their lord. On a quest, as in any enterprise, 
+a knight represents not only himself, but also his lord, so the lord will agree to send only individuals whom he will not 
+have to bail out of trouble, or who will not bring shame or dishonor to him. A time limit is often imposed on absentee 
+time for questing. The proverbial "year and a day" is a good starting time period. At the end of the leave period, the 
+knight must return to court and report the results of his activities. In time, as a knight gains repute, the leave may 
+be considerably longer, and sometimes even indefinite, particularly if it is assigned for a specific task. 
+
+Of course, questing is also a "metagaming conceit," the best excuse for player knights to wander the roads and trails of 
+Britain.
