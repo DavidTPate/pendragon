@@ -139,29 +139,14 @@ All initial characters begin with a moral base derived from either British or Ro
 To determine your character’s starting traits, follow these three steps:
 
 ### Step 1: Religious Background
-Initial traits are modified by the religious background. On your character sheet, underline those traits which your
+Initial traits are modified by the religious background. On your character sheet, mark those traits which your
 character’s religion deems the most important, as follows:
 
-#### Roman Christian Virtues
-* Chaste
-* Forgiving
-* Merciful
-* Modest
-* Temperate
-
-#### British Christian Values
-* Chaste
-* Energetic
-* Generous
-* Modest
-* Temperate
-
-#### Pagan Virtues
-* Generous
-* Energetic
-* Honest
-* Lustful
-* Proud
+Religion          | Chaste | Energetic | Forgiving | Generous | Honest | Lustful | Merciful | Modest | Proud | Temperate
+----------------- | ------ | --------- | --------- | -------- | ------ | ------- | -------- | ------ | ----- | ---------
+Roman Christian   | :x:    |           | :x:       |          |        |         | :x:      | :x:    |       | :x:
+British Christian | :x:    | :x:       |           | :x:      |        |         |          | :x:    |       | :x:
+Pagan             |        | :x:       |           | :x:      | :x:    | :x:     |          |        | :x:   |
 
 ### Step 2: Assign Values to the Traits
 The Valorous trait always begins at a value of 15, reflecting your character’s martial training. The Religious traits
