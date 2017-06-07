@@ -445,7 +445,7 @@ impartial.
 Arbitrary means that the character has no concern for what is right or wrong, and uses other information and bases
 for his decision making. Very arbitrary people are labeled unjust, unfair, wrongful, and probably biased and partial.
 
-> **Famous Characters((: King Arthur is perhaps most famous for his extraordinary sense of justice.
+> **Famous Characters**: King Arthur is perhaps most famous for his extraordinary sense of justice.
 
 ### Merciful/Cruel
 Mercy indicates a tendency to extend sympathy, pity, and aid to others. This includes sparing an enemy, giving money to
