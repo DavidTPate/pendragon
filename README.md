@@ -4,7 +4,7 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
 <!-- toc -->
 
 - [Traits](#traits)
-  - [Ordinary Traits and Pasions](#ordinary-traits-and-pasions)
+  - [Ordinary Traits and Passions](#ordinary-traits-and-passions)
   - [Famous Traits and Passions](#famous-traits-and-passions)
   - [Traits Over 19](#traits-over-19)
   - [Penalizing and Reducing Traits and Passions](#penalizing-and-reducing-traits-and-passions)
@@ -160,7 +160,7 @@ reputations, some good, some bad, some simply colorful.
 Traits and passions are game mechanics for quantifying your character's inner self, recording both repute and propensity.
 They help you run your character in a consistent manner and according to his actual play activity.
 
-## Ordinary Traits and Pasions
+## Ordinary Traits and Passions
 Traits and passions between 5 and 15 do not have to be rolled against if the player wishes to use his free will to
 determine an action, although rolling is obviously the most impartial way to determine actions.
 
@@ -682,6 +682,51 @@ really doesn't much care, or if he holds his own anger or hatred in check for th
 (No check is given to someone defending his own home.)
 
 All characters from the Cymric culture start with a Hospitality value of 15. 
+
+### Fey Passion
+When mortal knights become too exposed to the fantastic sights and sounds of Faerie, they often find that the mundane
+world begins to pale for them. After a knight has wooed the King of Elfland's Daughter, mortal women seem dull and 
+coarse by contrast. Experiencing the delights of King Today’s court makes Baron Guelph’s castle seem like the hovel of 
+a surly, ill-mannered peasant. This malaise can affect every aspect of the knight’s life, sometimes leading to a 
+premature death. Such knights are referred to as "fey," for they seem more like elves than men.  
+
+Fey is first generated when a knight undergoes a traumatic experience that involves Faerie in some way: This could an 
+encounter with a hideous monster, a dalliance with an elf-maid that turns serious, or simply journeying to the Faerie 
+realms.
+
+Note that falling in love with a Faerie, and thus acquiring either an Amor or Love (faerie lover), should gain a Fey 
+passion as well, equal in value to the Amor or Love stat.
+
+Otherwise, the starting Fey passion is 2d6 plus any modifiers from the chart below. 
+
+Situation | Modifier
+--------- | --------
+Traveled to Faerie realm | +3
+Traveled to Faerie place (dell, mound, woods, etc.) | +2 
+Subjected to a powerful Faerie magic or effect | +3
+Witness to a powerful Faerie magic or effect | +2
+Significant or continuous interaction with Faerie beings | +1
+Ate Faerie food in Faerie place | +2
+
+The Fey passion uses the same mechanics as other passions, with a few important distinctions and effects: 
+
+#### Creativity
+The passion may always be used for inspiration while engaged in creative acts, like reciting or writing poetry, singing, 
+and playing an instrument. In fact, many bards and poets wish to become Fey, just for this very reason.
+
+#### Return
+The Fey passion can be used for inspiration to any skill used in returning to the situation that created the passion. 
+That is, if Sir Ambrose gained Fey by traveling through Arcadia, he can use inspiration from Fey to add to skills that 
+would allow him to get back to Arcadia, such as weapon skills when fighting threshold foes, or to personality traits 
+when undergoing behavior tests to enter Arcadia. 
+
+#### Ennui
+Whenever another passion roll is successful, such as Loyalty (lord) or Love (family), the player knight must immediately
+contest his Fey against the successful passion. If Fey wins the contest, then the knight does not gain the benefit of 
+inspiration from the original Passion. 
+
+#### Accelerated Aging
+A knight must make an additional aging roll every year, even if he does not normally have to make one for some reason. 
 
 ### Honor
 Honor is the passion that sets knights apart from ordinary people. It is a combination of personal dignity, integrity,
