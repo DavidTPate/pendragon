@@ -150,6 +150,12 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
       - [Zero or Negative Hit Points](#zero-or-negative-hit-points)
 - [Adventuring](#adventuring)
   - [Questing](#questing)
+- [Religion](#religion)
+  - [Piety/Spirtual and Religion](#pietyspirtual-and-religion)
+    - [Fanaticism (16+)](#fanaticism-16)
+    - [Interest (11–15)](#interest-1115)
+    - [Indifference (6–10)](#indifference-610)
+    - [Hostility (0–5)](#hostility-05)
 
 <!-- tocstop -->
 
@@ -1804,3 +1810,40 @@ be considerably longer, and sometimes even indefinite, particularly if it is ass
 
 Of course, questing is also a "metagaming conceit," the best excuse for player knights to wander the roads and trails of 
 Britain.
+
+# Religion
+Religion plays a large part in the lives of every Arthurian knight. As warriors, knights live close to the grim reality 
+of death at all times, and spiritual life provides some comfort and guidance for them.
+
+Religious conflict is a possible theme in Pendragon, based on a Gamemaster’s wishes for the campaign, but is not 
+generally touched upon in the basic game. Religious conflict was not a very important part of most Arthurian literature. 
+Constant argument and bigotry is almost sure to destroy a game, and players and Gamemasters alike are advised to use 
+religious conflict in a campaign only with great care.
+
+In general, players have a wide variety of attitudes about Christianity, ranging from ignorance and indifference through 
+curiosity and willing acceptance to fanaticism or even overt hostility. For the latter people, Paganism is provided as an 
+option starting religion for player knights. 
+
+## Piety/Spirtual and Religion
+Religious attitudes, both Christian and pagan, can be summed up within four categories for Pendragon, and are determined 
+roughly by the value of a character’s Pious trait, as noted in parentheses beside each category.
+
+### Fanaticism (16+)
+For this character, religion is placed before any observance or behavior arising from a trait having a lower value, 
+and before any social event or endeavor that interferes with dedication to the religious life. Sir Galahad is the best
+literary example of this type of knight.
+
+### Interest (11–15)
+Most people in this range have been brought up on the precepts and ideologies of their religion and accept them without 
+thinking much about it. They regularly attend religious services and functions, residing at the core of mainstream belief.
+
+### Indifference (6–10)
+Most knights of Arthur’s era show great indifference toward their religion, just as most people do today and probably 
+always have. They are subject to its invisible cultural influence, but don’t really care one way or the other. They 
+might attend Mass regularly, or as needed, but probably think it’s a waste of time. Sir Gawaine is regularly accused of 
+being this type of knight. 
+
+### Hostility (0–5)
+Some knights actively hate the church and plunder its holdings and servants with glee. Reasons can vary widely, and a 
+few examples of these types appear in literature, and more in history. Sir Thomas Malory is himself a good example of a 
+knight of this type.
