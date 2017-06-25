@@ -1941,3 +1941,26 @@ that unify all European peoples (the other being the feudal system). A person ca
 Italy in the east, and from Germany in the north to Spain in the south, and in every place he stops he will find the 
 same belief in the sacrifice and resurrection of Jesus Christ, even though the ceremonies, holy days, and certain 
 aspects of morality may differ.
+
+## Religious Knights
+Knights who follow a strict religious way of life get an advantage in game. Most people in Logres believe that 
+Christianity is the One True Faith, but Religious knights of the Christian faith go one step further and work hard to 
+promote their religion through their exemplary lifestyle. 
+
+Bonuses are awarded to characters who maintain a minimum value of 16 in all of the traits pertinent to their religion, 
+as listed above. Such knights are referred to (unsurprisingly!) as Religious knights, and are usually treated as 
+embodiments of the virtues of their faith. Christian knights must strive to exercise their virtues during their daily 
+lives; they attend Mass as much as possible, and must attend Easter mass.
+
+Religious Knights receive benefits as follows.
+
+Religion | Benefits
+-------- | --------
+Roman Christian | Total Hit Points + 6
+British Christian | Total Hit Points + 3, Damage + 2
+Pagan | Healing Rate + 2
+
+In addition, all Religious Knights gain 100 Glory annually, during the Winter Phase.
+
+If a Religious knight ever fails to maintain his required trait values, even by a single point, he immediately loses 
+these benefits. 
