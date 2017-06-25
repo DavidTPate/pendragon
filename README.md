@@ -1847,3 +1847,61 @@ being this type of knight.
 Some knights actively hate the church and plunder its holdings and servants with glee. Reasons can vary widely, and a 
 few examples of these types appear in literature, and more in history. Sir Thomas Malory is himself a good example of a 
 knight of this type.
+
+## Christianity
+Christianity is likely the foremost religion of the Arthurian world. Religion in the Middle Ages, though, was very 
+different from religion today. To capture the feelings and attitudes of medieval literature, it is important for 
+players to understand the accepted attitudes held about religion by their characters, who are members of the ruling 
+class. Christianity is the dominant religion in Britain and in Europe during the Pendragon era. Your character knows 
+that several different forms of the religion exist in Europe. Two types compete for followers just in Britain.
+
+Even the most ignorant worshiper knows the information contained under Core Beliefs, below. More informed individuals 
+— i.e., those with a Religion skill of 6 or higher, with higher scores indicating progressively more thorough 
+knowledge — know parts of the History, as well, which is drawn from many British sources and is intended largely as 
+player information. Thus it includes many facts that outsiders question (such as whether Jesus was ever in Britain).
+
+### Core Beliefs
+Two types of Christianity are practiced in Arthurian Britain. One is ancient, having been established in the first 
+century A.D. by Joseph of Arimathea. It is called British Christianity. The second is derived from distant Rome, and 
+is called Roman Christianity. Both types of Christianity share the most important beliefs and have more in common with 
+each other than do the many forms of Paganism practiced in the lands outside of Logres.
+
+Christianity believes in a single God who created the world and everything in it. The first people were called Adam and 
+Eve. Because humans were made with free will, many descendants of Adam and Eve fell away from the worship of God and the 
+world was corrupted.
+
+God then manifested Himself (it is common to capitalize personal pronouns referring to God) as the Son of the Father to 
+offer salvation to the world. During the reign of Emperor Augustus was born this Son of God, named Jesus Christ, in the 
+kingdom of Judea. Barely escaping death as an infant, Jesus was raised in obscurity as the son of a carpenter and his 
+wife, the Virgin Mary, in a small town in Judea. Christ spent a short time as a wandering teacher, attended by his 
+selected followers called the apostles. He allowed Himself to be tortured and nailed to a cross, dying for the sake of 
+all humankind. The day he died is called Good Friday. 
+
+He was buried in the tomb of his uncle, Joseph of Arimathea, but after three days He rose miraculously from the dead. 
+He visited his closest disciples and instructed them in his new religion. Fifty days after the first Easter, the Holy 
+Ghost descended upon the apostles and gave them the gift of tongues, after which time they went around the world 
+teaching about the miracle of Christ’s death and resurrection. The converted people formed the start of the Christian 
+religion.
+
+This sacrifice by God allowed humans to obtain eternal salvation and, after death, to join God in Heaven. Worshipers 
+can find personal salvation through imitating the life of Jesus Christ and following His teachings. Regular worship 
+takes place every Sunday within buildings called churches. The holiest day of the liturgical year is Easter, the day 
+that He rose from the dead and proved he was the Son of God. Another important day is Pentecost, commemorating the time 
+fifty days after Easter when the Holy Ghost descended upon the apostles. Christmas is another holy time, marking the 
+birth of Christ in the city of Jerusalem. Many other holy days exist as well, but those listed above are the most 
+important.
+
+Although most people are illiterate, literacy (in Latin) is common among the clergy and Christian writings are 
+available, painstakingly copied by the hands of countless monks. Records of the religion are collected in a book 
+called the Bible.
+
+Saints are important in Christianity. These are exceptionally holy persons who are rewarded after death for a lifetime 
+of dedication to God. They have the power to intercede between God and his worshipers. Many saints are important in 
+Arthurian Britain, including the apostles, but one of the foremost is Saint Mary, the Mother of God.
+
+Mass is the name of the formal worship service, celebrated every Sunday by Christians everywhere, and even more often 
+by exceptionally pious people. The holy rituals are called sacraments, including the following: baptism, which is given 
+upon entering the religion; penance, which forgives the penitent’s sins; communion, the basic act of interaction with 
+God, and around which the Mass is centered; confirmation, which initiates members of the church as Soldiers of Christ; 
+matrimony, which blesses marriage; Holy Orders, by which a man is made a priest; and Extreme Unction, given at death to 
+ease a person’s journey to Heaven. 
