@@ -156,6 +156,9 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
     - [Interest (11–15)](#interest-1115)
     - [Indifference (6–10)](#indifference-610)
     - [Hostility (0–5)](#hostility-05)
+  - [Christianity](#christianity)
+    - [Core Beliefs](#core-beliefs)
+    - [Differences and Similarities](#differences-and-similarities)
 
 <!-- tocstop -->
 
@@ -1134,7 +1137,7 @@ a failure, though, either.
 
 Once knocked down, a character needs no roll to get up again, even if in heavy armor. However, in combat he must fight 
 from a disadvantage while clambering back to his feet: He suffers a –5 modifier to his weapon skills, while any opponents 
-gain a +5 modifier. See the “Combat” chapter  for more information on the complicated issues of combat modifiers and 
+gain a +5 modifier. See the "Combat" chapter  for more information on the complicated issues of combat modifiers and 
 actions during a melee round. Footing: Most balance rolls should receive a negative modifier when attempted upon rough, 
 narrow, or unstable surfaces, as appropriate. For example, a character attempting to balance as he walks across on a 
 narrow wooden beam over a chasm should receive a penalty. Usually, this negative modifier should be no more than –10.
@@ -1188,7 +1191,7 @@ Stealth and detection are complicated subjects, and the Gamemaster should be rea
 given here as needed.
 
 If a character wishes to sneak up on someone, he makes a DEX roll. Any character who might reasonably have a chance to 
-observe the character makes an opposed Awareness roll. (See “Opposed Rolls” in Chapter 5.) If both sneaker and observer 
+observe the character makes an opposed Awareness roll. (See "Opposed Rolls" in Chapter 5.) If both sneaker and observer 
 fail their rolls, the Gamemaster should decide what happens based on the circumstances.
 
 Unlike most DEX rolls, a critical success on a sneak roll has a distinct effect: It always succeeds unless the opponent
@@ -1216,8 +1219,8 @@ modifier.
 #### Thrown Weapons
 If damage is intended to a target, the Javelin skill might be used if it seems appropriate. However, if a character
 wishes to heave a boulder from a cliff or hurl a stool at a nearby foe, for instance, he should make a DEX roll as if
-it were a ranged combat skill; a successful attack roll deals damage as if with a brawling attack. (See both “Ranged
-Attacks” and “Brawling” in Chapter 6.)
+it were a ranged combat skill; a successful attack roll deals damage as if with a brawling attack. (See both "Ranged
+Attacks" and "Brawling" in Chapter 6.)
 
 A critical success indicates that double damage is dealt, as with any attack, while a fumble might hit a nearby ally,
 object, or surface instead of the intended target.
@@ -1904,4 +1907,37 @@ by exceptionally pious people. The holy rituals are called sacraments, including
 upon entering the religion; penance, which forgives the penitent’s sins; communion, the basic act of interaction with 
 God, and around which the Mass is centered; confirmation, which initiates members of the church as Soldiers of Christ; 
 matrimony, which blesses marriage; Holy Orders, by which a man is made a priest; and Extreme Unction, given at death to 
-ease a person’s journey to Heaven. 
+ease a person’s journey to Heaven.
+
+### Differences and Similarities
+The British Church has a flavor of its own, due in part to its early adaptation of local druidic beliefs. Evidence of 
+this is found in the unusual tonsure adopted by the monks. In the Roman method, the top of the head is shaved (in the 
+famous "Friar Tuck" style). But with the Celtic method, the front of the head, from ear to ear, is shaved, leaving only 
+a forelock.
+
+Another major difference involves the question of authority. The British church feels that abbots, who oversee 
+monasteries, are more important than bishops, who exist primarily to appoint new priests. Also, for the British Church, 
+the local kings appoint both the abbots and bishops. The Romans accept only the authority of Rome to appoint their 
+bishops, who have authority over the local abbots.
+
+In the British Church, a monastery is always associated with a tribe or clan, and the abbacy is inherited by 
+descendants of that family. The leader is called a coarb, and he acts in every way as both a temporal and 
+ecclesiastical leader for the holding. The coarb might be an abbot or bishop; however, his loyalty is not to a 
+church hierarchy, but to the local clan or tribe that originally granted the land.
+
+Most importantly, there is a dispute between the British and Roman Churches as to the date for Easter. The rationales
+behind this dispute are far too esoteric to go into here, but since Easter is the most important holy day for both 
+churches, this dispute is prominent in the friction.
+
+Finally, Pelagianism and Semi-Pelagianism dispute many points of the new dogma of Rome. Key points held by the Pelagians 
+are that every person has a free will, and every person, pagan or Christian, is responsible for his own conduct; that 
+mankind was not cursed by Original Sin and, hence, is inherently good; that every man has a right to be wrong; and that 
+baptism is not necessary for salvation. Also, there is a stress on clerical poverty and social justice. All these things 
+are denied by Roman dogma.
+
+Yet although Christianity has not cemented itself into a single unitary church, and despite these differences, it 
+unifies all of Britain and indeed western humanity against most other religions. It is, in fact, one of the two factors 
+that unify all European peoples (the other being the feudal system). A person can travel from Ireland in the west to 
+Italy in the east, and from Germany in the north to Spain in the south, and in every place he stops he will find the 
+same belief in the sacrifice and resurrection of Jesus Christ, even though the ceremonies, holy days, and certain 
+aspects of morality may differ.
