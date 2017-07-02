@@ -87,6 +87,17 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
     - [Compose (Knightly)](#compose-knightly)
     - [Courtesy (Knightly, Knowledge)](#courtesy-knightly-knowledge)
     - [Dancing (Knightly)](#dancing-knightly)
+    - [Faerie Lore (Knightly, Knowledge)](#faerie-lore-knightly-knowledge)
+    - [Falconry (Knightly)](#falconry-knightly)
+    - [Fashion (Non-Knightly)](#fashion-non-knightly)
+    - [First Aid (Knightly)](#first-aid-knightly)
+    - [Flirting (Knightly)](#flirting-knightly)
+    - [Folklore (Knightly, Knowledge)](#folklore-knightly-knowledge)
+    - [Gaming (Knightly)](#gaming-knightly)
+    - [Hearldry (Knightly, Knowledge)](#hearldry-knightly-knowledge)
+    - [Hunting (Knightly)](#hunting-knightly)
+    - [Industry (Non-Knightly)](#industry-non-knightly)
+    - [Intrigue (Knightly)](#intrigue-knightly)
 - [Stats](#stats)
   - [Dexterity Roll](#dexterity-roll)
     - [Balance](#balance)
@@ -159,6 +170,7 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
   - [Christianity](#christianity)
     - [Core Beliefs](#core-beliefs)
     - [Differences and Similarities](#differences-and-similarities)
+  - [Religious Knights](#religious-knights)
 
 <!-- tocstop -->
 
@@ -1088,6 +1100,259 @@ Glory can be gained from successful Dance rolls if the dancer(s) are the center 
 > **Special**: With the Gamemaster’s approval, characters having high Glory may receive a positive modifier to Dance,
 with a maximum modifier equal to Glory/1,000.
 
+### Faerie Lore (Knightly, Knowledge)
+
+Faerie Lore quantifies how much a knight knows about the mysterious ways of Faerie and the invisible world of the Other 
+Side. It may be used to identify a particular type of faerie that was sighted, to recognize a faerie encounter as such, 
+or to aid communication with the inhabitants of the Faerie Realm.
+
+Every character in Pendragon is superstitious to some extent and this is expressed by the starting skill value of 2. 
+This minimum means that all characters know common legends. For example, person in King Arthur’s Britain knows that a 
+lone faerie probably intends harm, while a band of faeries may not. Everyone knows that whenever something uncanny 
+occurs it is due to some elf or faerie, and anything strange that is not immediately recognizable as the influence of 
+faeries is quite possibly made by them as well.
+
+Although characters must be roleplayed as superstitious, the Gamemaster decides to what extent the magic of Britain is 
+real within his campaign. This fact is then up to the players to discover through play. Some Gamemasters like to have
+magic as a common thread running throughout the game, while others prefer that actual magic appear only in the most
+unusual and terrifying circumstances.
+
+A Faerie Lore success reveals magical information, which the Gamemaster should present in an entertaining way. However, 
+this information may be sheer superstition, or incorrect in detail. A failure or fumble gives erroneous information. A 
+critical success always reveals some important fact, as secretly communicated to the player of that character by the
+Gamemaster — for example, "Sir Ambrut realizes that the three witches are actually the mad daughters of the king."
+
+Characters may gain Glory for a success with Faerie Lore if it reveals information crucial to a scenario. Usually, 
+however, little Glory is to be gained from knowledge of Faerie — Glory is gained from interactions with that world, 
+not mere talk of it.
+
+### Falconry (Knightly)
+Falcons and hawks can be trained to hunt birds and other small prey. Such sport is the pleasure of nobles, who sometimes 
+spend considerable money to maintain a firstclass mews (the building reserved for the maintenance of hunting birds).
+
+The Falconry skill is used whenever knights and ladies take birds into the fields to hunt. The skill value indicates how 
+apt the character is at the sport, such as knowing just when to let the bird go, how to call it back, and how to handle 
+it both safely and decorously.
+
+Critical success means the bird caught its prey and returned with it to the hawker’s feet, and that both falconer and 
+bird acted gracefully and stylishly. Success simply indicates that the bird got its prey. Failure shows it missed its 
+catch. A fumble means the hawk flew away and was lost, or was somehow fatally injured in its hunt.
+
+Individual birds may be trained by their masters, and a particularly well-trained bird can actually improve a knight’s 
+Falconry skill with a positive modifier.
+
+Tradition insists that certain birds be used only by certain ranks or classes of folk, as follows:
+
+* Eagle: emperors
+* Jerfalcon (or gyrfalcon): kings, princes
+* Peregrine falcon: earls
+* Merlin: ladies
+* Goshawk: knights
+* Sparrowhawk: clergy
+
+Glory is gained for every success in Falconry. Most successes gain ordinary Glory (10 points), but a spectacular 
+critical success before King Arthur and the assembled court might gain as much as 100 points. 
+
+### Fashion (Non-Knightly)
+This skill dictates a lady’s sense of fashion, of knowing what is in style and what is not. It dictates her mastery of 
+what to wear, how to wear it, and how to be creative in setting new fashions. Generally, the queen sets fashion 
+(or rather, her ladies-in-waiting do), though outside sources may also have some influence — "Spanish dresses this 
+year," and whatnot. Fashion expertise is yet another way for a young woman to get into a noble household.
+
+In general, for each $1 value of her attire, a character gains a +1 modifier on any APP roll she might make. However, 
+any time she arrives at a social event or some other public venue, a character may attempt a Fashion roll, the results 
+of which can modify the APP modifier.
+
+Fashion Roll | App Modifier | Effect
+------------ | ------------ | ------
+Critical success | x2 | Sets new fashion
+Success | x1.5 | Suitably fashionable
+Failure | x1 | Behind the time
+Fumble | x0.5 | Dreadfully out of fashion
+
+> **Note**: Remember that clothes wear out a little every year (see "Winter Phase" in Chapter 5), but jewelry does not.
+
+### First Aid (Knightly)
+First Aid provides immediate medical assistance to wounds. It is actually more reliable than the medieval treatments to 
+be used later in treatment (see the Chirurgery skill). Like Chirurgery, the use of this skill is an important and 
+complicated subject (see "Injury and Health" in Chapter 6 for more information).
+
+Characters cannot apply First Aid to themselves. Glory should usually be gained for successful use of the First Aid 
+skill, the amount gained being proportionate to the Glory and rank of the character being treated. If a life is saved, 
+more Glory should be gained. 
+
+### Flirting (Knightly)
+Flirting is a courtly skill that can be mastered to convey sensuality and sexuality. It includes use of specific words, 
+tones of voice, expressions, movements, gestures, and attitudes. The primary purpose is to gain the attention of a  
+member of the opposite sex.
+
+Success simply indicates that a flirtatious message was conveyed, to which the recipient may choose to respond or not. 
+The higher the number rolled, the more potent the message conveyed. However, a critical success indicates that the 
+listener was moved somehow, and further was unable to hide his or her feelings.
+
+Failure indicates that the message was not adequately conveyed during the conversation. A fumble shows that the speaker 
+misspoke something terribly, and caused embarrassment, and perhaps even offense.
+
+Although seduction certainly requires flirtation during its initial stages, flirtation does not necessarily mean 
+seduction. It is not uncommon to flirt for amusement’s sake, although this practice may be misinterpreted and incite 
+passions among the unlettered and ignorant.
+
+It is more exciting to flirt with a handsome or beautiful character than an ugly one. The Gamemaster may wish to impose 
+a modifier on the Flirting skill of any character with unusually high or low APP.
+
+Success with the Flirting skill gains Glory only if a subject of the opposite sex becomes infatuated with the character.
+
+Note that Flirting is deliberately set apart from the far less vulgar Romance skill.
+
+> **Special**: With the Gamemaster’s approval, characters having high Glory may receive a positive modifier to Flirting, 
+with a maximum modifier equal to Glory/1,000. 
+
+### Folklore (Knightly, Knowledge)
+Folklore is a knowledge of peasant beliefs and ways of life. It stems from familiarity with the land that has been 
+gained over thousands of years of experience. Folklore includes information on many subjects, from such ordinary things 
+as the lore of pigs or local landmarks, all the way to the household herbal cures passed from old women to their female 
+descendants. It includes thousands of tiny facts useful to daily living, such as when to plant, how to tell if the 
+coming winter will be hard, and how to cheat the tax collector, as well as a certain amount of nonsense, such as how to 
+rid oneself of warts, charms to kill rats, and songs to make the plants grow.
+
+Folklore is used in play when a knight observes peasants to determine what they are doing, or when trying to evaluate 
+how they feel. It may also be used to gain a benefit in communicating with peasants. In this case, a successful Folklore 
+roll indicates that the knight has communicated his friendliness and knowledge of "folksy" ways, presumably making the 
+peasant more agreeable and less afraid.
+
+A failed Folklore roll reveals the knight to be a typical upper-class oppressor, while a fumble indicates a major social 
+gaffe that offends, and possibly gravely insults, the peasant.
+
+Glory is not normally gained through Folklore. What Glory is there in dealing with commoners and peasant matters? 
+
+### Gaming (Knightly)
+The Gaming skill allows the user to perform certain types of medieval play effectively and with aplomb, whether in 
+competition or for entertainment. This skill does not include ability in physical sports such as wrestling and jousting, 
+and has nothing to do with them.
+
+All types of common gaming, including simpler forms of gambling, are included. Common games include Roman Tabula 
+(backgammon), Saxon Hnaeftafl ("swords-andshields"), Cymric Gwyddbwyll ("wooden wisdom"), and the continental Les 
+Dames (checkers). 
+
+Two characters playing a game together make opposed Gaming rolls. If a monetary stake is involved, the difference
+between the two numbers rolled can be used by the Gamemaster to determine the amount of money won (i.e., a difference 
+of 3 might indicate that the winner took away 3d. from the loser).
+
+Glory may be gained from success with the Gaming skill only if the situation is unusually chivalrous; ordinary gaming 
+or gambling never gains Glory. 
+
+### Hearldry (Knightly, Knowledge)
+A knight is known by his coat of arms. When in armor, everyone looks the same, except for the coat of arms blazoned on 
+the shield and the banner. Surcoats also carry this identification.
+
+Members of families commonly display similar arms, such as the two-headed eagle of the Orkney clan. Sons often design 
+their arms to resemble those of their fathers. Quite by accident, some coats of arms are similar to one another, making 
+perfect identification difficult. Examples of large groups with similar coats of arms include the aforementioned Orkney 
+clan, the de Ganis clan, Cornish knights, and the royal families of any kingdom. Other less coherent groups include arms 
+that have horses, ships, or simply fields with red on top.
+
+Successful use of this skill indicates that your character knows the members of the group or family for that coat of 
+arms, or the several most likely holders of those arms. A critical success indicates that the precise person is 
+recognized, as well as the general group.
+
+A failed Heraldry roll means the character simply does not know whose coat of arms he is viewing. A fumble means that 
+he identifies the coat of arms wrongly.
+
+The Gamemaster may require a Heraldry roll to see if the characters properly identify the coat of arms of someone they 
+already know. Success means the Gamemaster states the individual’s identity (or at least the identity of the individual 
+whose shield he bears...).
+
+A success with Heraldry gains Glory — normally 10 points — if vital or significant information is gained thereby.
+
+Special: For every 1,000 points of Glory a knight has, other characters gain a +1 modifier to their Heraldry skill for 
+the purpose of identifying the glorious one. Thus, if anyone tries to recognize the arms of Sir Ambrut (who has 
+accumulated 1,605 Glory thus far), their Heraldry skill is effectively raised by 2 points. 
+
+### Hunting (Knightly)
+The Hunting skill includes the entire variety of tasks performed during the noble sport of the chase, excluding weapon 
+skills. 
+
+Hunting includes knowing what is meant by the different blasts on the horn, for instance, and knowing whether an animal 
+is a "beast of chase, venery, or vermin." It includes care of hounds, as well as an understanding of their methods of 
+hunting and the meanings of their various cries and barks; tracking the spoor and identifying beasts from it; knowing 
+the best way to kill each beast quickly; and the skill of cutting it up properly afterwards so everyone, from hounds 
+and dog boys to the sponsor, gets their correct share.
+ 
+Generally, a Hunting roll made to pursue a beast through the wilderness is opposed by that creature’s Avoidance roll 
+(see "Natural Beasts" in Appendix 2 for a detailed explanation), modified by terrain as noted below. In addition to 
+dictating one’s ability to hunt game, the Hunting skill is also used to test general woodland and wilderness knowledge. 
+A successful Hunting roll (indicating an innate sense of direction, as well as the need to check the route with 
+passersby, seek trails and roads, follow landmarks, and so on) is needed to make progress while traveling in wild or 
+uncharted areas. A successful check in this circumstance results in travel at a Leisurely pace, while a critical 
+success allows travel at a Normal pace (see Movement in Chapter 5).
+
+A failed Hunting roll made to find one’s way in the wilderness means the character is confused and must stop the trip 
+to get his bearings, delaying the journey for an hour or more, depending on Gamemaster preference. A fumble means the 
+character goes the wrong direction and becomes thoroughly lost. (See the "Lost in the Woods" scenario in Appendix 3.)
+
+Finally, a Hunting roll can be used to forage and hunt for small game. Assume that a successful roll means the character 
+has found enough food and potable water to keep himself fed for one day. A critical success sustains a character for 1d3 
+days, or else 1d6 characters for one day (since food spoils). A fumble might mean the character is poisoned by tainted 
+food or water, at the Gamemaster’s discretion.
+
+Regardless of the purpose of a particular Hunting roll, local terrain can make a difference on a character’s Hunting 
+skill, as shown on the following chart.
+
+Terrain | Modifier
+------- | --------
+Barren waste | -5
+Forest/wildlands | +0
+Hills | -3
+Marsh/swamp | -6
+Mountains | -4
+Open fields | +4
+
+Successful hunts usually are worth modest Glory, but this is normally based on what animals or beasts are caught.
+
+Glory may be gained directly using the Hunting skill if scenario goals are met or lives are saved. Note: See the 
+"Introductory Scenario" in Appendix 3 for a sample hunt.
+
+> **Special**: Characters who hunt without dogs suffer at least a –5 modifier to all Hunting rolls.
+
+Characters hunting in their home county (or otherwise in the lands immediately surrounding the place where they grew up) 
+gains a +5 bonus on all Hunting rolls. 
+
+### Industry (Non-Knightly)
+Knights never engage in Industry, and are in danger of losing their high rank if they do. Industry is the woman’s work 
+of creating things with her hands, or the common peasant’s tasks of farming, labor, and craft. 
+
+In Pendragon, this skill is most often expressed in the arts of spinning, weaving, and sewing, tasks for noblewomen who 
+create fashionable clothing for both men and women; large tapestries to hang upon walls; ornate church vestments; and 
+perhaps even simple table linens and the like. Industry can also be applied to churchmen who make fine books, or to 
+witches or druids who create fetishes and charms.
+
+The quality of work produced by one’s Industry is based on the number rolled for success. A critical success creates a 
+work of great quality or even artistry. Ordinary Glory (usually no more than 10 points) can be gained by non-knights 
+from the use of this skill, if a particularly beautiful item is made and presented to someone in public.
+
+### Intrigue (Knightly)
+This skill allows one to know what is going on at court. Everyone has access to gossip, but hard work and clever 
+conversations help to pry out the real facts. The Intrigue skill is needed to know who to ask, when to ask them, what 
+to say to them to learn of a secret, and how to sift truth from lies. Intrigue is not used to poison people in secret, 
+to foment rebellion, or to assassinate rivals. Such dark practices must be roleplayed, not left to random die rolls.
+
+Personal contacts cultured through long, often secret relationships can be established and maintained using this skill. 
+Thus even a young Sir Mordred, with his remarkable Intrigue skill, already has contacts among most of the noble families 
+of Britain.
+
+Many modifiers may be applied to an Intrigue roll. For instance, trying to find out secrets in a castle whose entire 
+staff has been briefed on a plan, and who agree with its intent, likely imposes a negative modifier. A resident who is 
+sympathetic because both he and the characters are from the same homeland, on the other hand, might give a positive 
+modifier. A normal castle or court situation, with nothing unusual going on, gives no modifiers.
+
+Success with Intrigue indicates that you learn something true and probably useful; a critical success indicates you 
+learn a special and important fact known only to you and the direct participants (perhaps a fact overheard at a critical 
+juncture, or seen by accident, or discovered in a lost note). Failure indicates nothing new was learned, while a fumble 
+means that a close contact lies, or is thought to have lied, to you. The Gamemaster can exploit this uncertainty at his 
+leisure.
+
+A successful Intrigue roll accrues Glory if facts critical to the characters’ success in a scenario are gained.
+
 # Stats
 
 ## Dexterity Roll
@@ -1471,7 +1736,7 @@ d20 Result | Dowry | Glory
 18 - 19 | 2 manors, $1d6+6 | 100
 20 or more | 2 manors, $2d6+6 | 250
 
-> _Note: The number of libra (£) is likely to be composed at least half of valuable items like rugs, hangings, furs,
+> _Note: The number of libra ($) is likely to be composed at least half of valuable items like rugs, hangings, furs,
 furniture, and the like._
 
 ### Children
@@ -1963,4 +2228,4 @@ Pagan | Healing Rate + 2
 In addition, all Religious Knights gain 100 Glory annually, during the Winter Phase.
 
 If a Religious knight ever fails to maintain his required trait values, even by a single point, he immediately loses 
-these benefits. 
+these benefits.
