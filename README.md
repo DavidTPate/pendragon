@@ -98,6 +98,31 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
     - [Hunting (Knightly)](#hunting-knightly)
     - [Industry (Non-Knightly)](#industry-non-knightly)
     - [Intrigue (Knightly)](#intrigue-knightly)
+    - [Oracle (Knightly)](#oracle-knightly)
+    - [Play - Instrument (Knightly)](#play---instrument-knightly)
+    - [Read - Symbols (Knightly, Knowledge)](#read---symbols-knightly-knowledge)
+    - [Recognize (Knightly, Knowledge)](#recognize-knightly-knowledge)
+    - [Religion (Knightly, Knowledge)](#religion-knightly-knowledge)
+    - [Romance (Knightly, Knowledge)](#romance-knightly-knowledge)
+    - [Singing (Knightly, Knowledge)](#singing-knightly-knowledge)
+    - [Stewardship (Non-Knightly, Knowledge)](#stewardship-non-knightly-knowledge)
+    - [Swimming (Knightly)](#swimming-knightly)
+    - [Tourney (Knightly, Knowledge)](#tourney-knightly-knowledge)
+  - [Weapon Skills](#weapon-skills)
+    - [Axe (Knightly)](#axe-knightly)
+    - [Battle (Knightly)](#battle-knightly)
+    - [Bow (Knightly)](#bow-knightly)
+    - [Crossbow (Non-Knightly)](#crossbow-non-knightly)
+    - [Dagger (Knightly)](#dagger-knightly)
+    - [Grapple (Knightly)](#grapple-knightly)
+    - [Great Axe (Knightly)](#great-axe-knightly)
+    - [Great Spear (Knightly)](#great-spear-knightly)
+    - [Horsemanship (Knightly)](#horsemanship-knightly)
+    - [Javelin (Knightly)](#javelin-knightly)
+    - [Lance (Knightly)](#lance-knightly)
+    - [Mace (Knightly)](#mace-knightly)
+    - [Spear (Knightly)](#spear-knightly)
+    - [Sword (Knightly)](#sword-knightly)
 - [Stats](#stats)
   - [Dexterity Roll](#dexterity-roll)
     - [Balance](#balance)
@@ -712,8 +737,8 @@ All characters from the Cymric culture start with a Hospitality value of 15.
 ### Fey Passion
 When mortal knights become too exposed to the fantastic sights and sounds of Faerie, they often find that the mundane
 world begins to pale for them. After a knight has wooed the King of Elfland's Daughter, mortal women seem dull and 
-coarse by contrast. Experiencing the delights of King Today’s court makes Baron Guelph’s castle seem like the hovel of 
-a surly, ill-mannered peasant. This malaise can affect every aspect of the knight’s life, sometimes leading to a 
+coarse by contrast. Experiencing the delights of King Today's court makes Baron Guelph's castle seem like the hovel of 
+a surly, ill-mannered peasant. This malaise can affect every aspect of the knight's life, sometimes leading to a 
 premature death. Such knights are referred to as "fey," for they seem more like elves than men.  
 
 Fey is first generated when a knight undergoes a traumatic experience that involves Faerie in some way: This could an 
@@ -816,7 +841,7 @@ foreigners have reached everyone in Britain. Characters begin with a Hate (Saxon
 
 ### Fear (Creature or Event)
 Fear is a negative emotion that can possibly be inherited as a family curse, but is normally gained only through a
-character’s personal experience. Fear is an irrational and absolute, mindless state of panic. Only extraordinary
+character's personal experience. Fear is an irrational and absolute, mindless state of panic. Only extraordinary
 adventures can instill such terror in knight characters (lesser characters may be more vulnerable). Such fear usually
 stems from supernatural places or creatures.
 
@@ -826,18 +851,18 @@ crazed holy men, standing stones that move, or Picts in the wild.
 
 > _Note: Fears, unlike other passions, never give benefits; they are an exception to the normal passion rules. No Glory
 is gained from a success or a critical success on a Fear roll, and no inspiration is possible. A Fear passion serves
-only to place the character out of the player’s control (or at least to drastically limit his actions) during specific
+only to place the character out of the player's control (or at least to drastically limit his actions) during specific
 situations._
 
 > **Special**: The Gamemaster may create an opportunity to overcome a Fear passion. Such a chance should probably come
-only once in any character’s career, and if the character succeeds in overcoming his Fear, he may gain Glory for it —
-about ten times the value of the character’s former Fear value is appropriate.
+only once in any character's career, and if the character succeeds in overcoming his Fear, he may gain Glory for it —
+about ten times the value of the character's former Fear value is appropriate.
 
 ### Hate (Nation, Group, or Person)
 Hatred motivates many people in Pendragon, especially poltroons who are driven to dastardly deeds. For instance, King
 Mark assuredly hates Tristram, and Morgan le Fay hates Guenever. Even some of the protagonists develop hatreds, usually
-because of their Love (family) or other loyalties. The best instance is Gawaine’s unrelenting Hate (Lancelot), brought
-about by Lancelot’s slaying of Gareth, Gawaine’s beloved brother.
+because of their Love (family) or other loyalties. The best instance is Gawaine's unrelenting Hate (Lancelot), brought
+about by Lancelot's slaying of Gareth, Gawaine's beloved brother.
 
 Hatred may be for an individual, a people, a kingdom, a religion, for magicians or monks, a station or class, or
 whatever the Gamemaster agrees to.
@@ -885,10 +910,10 @@ A critical success in this passion gives the character a modifier or a check to 
 to any one skill. The character is thereafter incapacitated by an ecstatic vision for a period of time determined by
 the Gamemaster (at least 1 hour), and cannot act at all during that time.
 
-The typical Love (deity) value is equal to that character’s starting Pious trait value.
+The typical Love (deity) value is equal to that character's starting Pious trait value.
 
 #### Love (Spouse)
-Deep feeling and attraction for one’s husband or wife was apparently quite uncommon in the feudal world of arranged
+Deep feeling and attraction for one's husband or wife was apparently quite uncommon in the feudal world of arranged
 marriages, but not entirely absent. Two significant exceptions in the romances are the loves of Duke Gorlois for his
 wife Ygraine and of Arthur for his wife, Guenever.
 
@@ -941,7 +966,7 @@ When a character has a check next to a skill, trait, or passion, the player must
 skills over 20, with luck.
 
 # Skills
-Character advancement in Pendragon is measured in part by the increase of your character’s skills. Skills express the 
+Character advancement in Pendragon is measured in part by the increase of your character's skills. Skills express the 
 social and physical activities popular in the Arthurian mythos. No knight is expected to master all or most of the 
 possible skills.
 
@@ -971,7 +996,7 @@ practice, these skills are gradually raised to a value of 20. Thereafter, experi
 Skills are divided into two broad categories: ordinary skills (normally referred to as simply "skills"), which include a
 wide range of different practical proficiencies and areas of knowledge, and combat skills, the crucial military skills
 that are the traditional area of expertise for knights. The two categories are listed in two separate areas on the
-knight’s character sheet, and are described in separate sections below.
+knight's character sheet, and are described in separate sections below.
 
 ### Knight
 Certain skills are noted as being Knightly in nature. These are accepted as being compatible with the duties of knighthood.
@@ -1002,8 +1027,8 @@ descriptions below. Otherwise, the Gamemaster describes the results based on the
 The [Combat Skills](#combat-skills) section gives the results of criticals and fumbles for combat skills.
 
 ## Honor
-The Honor passion reflects your character’s code of behavior and his reputation as a knight. Fumbled or failed skill 
-rolls do not affect your character’s Honor value: Honor cannot be lost simply because of a bad skill roll.
+The Honor passion reflects your character's code of behavior and his reputation as a knight. Fumbled or failed skill 
+rolls do not affect your character's Honor value: Honor cannot be lost simply because of a bad skill roll.
 
 Certain situations might occur, however, in which a Gamemaster feels justified in subtracting Honor because a skill was 
 used unwisely or unjustly. For example, causing harm or humiliation to another character through failure in a skill 
@@ -1018,12 +1043,12 @@ Descriptions of, you know, skills.
 Use this skill when a knight is listening for a sound, trying to spot a hidden Pict or discern some other hidden danger,
 or otherwise draw some sensory information from his surroundings.
 
-This skill measures the character’s attentiveness to his immediate surroundings, using both his five physical senses and
+This skill measures the character's attentiveness to his immediate surroundings, using both his five physical senses and
 the mysterious "sixth sense." A critical success might reveal extra information (such as the precise location of the
 bandits hiding in the trees, as opposed to the simple realization that there are bandits there), while a fumbled
 Awareness roll reveals incorrect information.
 
-A success that reveals an ambush or other such crucial information may be worth Glory, at the Gamemaster’s option.
+A success that reveals an ambush or other such crucial information may be worth Glory, at the Gamemaster's option.
 
 ### Boating (Knightly)
 This skill allows a character to handle watercraft, whether a rowboat, a skiff, a coracle, or a Saxon longship. Success 
@@ -1052,7 +1077,7 @@ See [Injury and Health"](#injury-and-health) in for more information on the comp
 
 ### Compose (Knightly)
 This skill grants the user a chance to create original musical works for voice or for one or more medieval instruments.
-The quality of the piece composed is relative to the number rolled for the success. The composer’s ability to perform his
+The quality of the piece composed is relative to the number rolled for the success. The composer's ability to perform his
 work is limited by his Play (instrument) and Singing skills, as appropriate.
 
 A critical success indicates that the piece created has great beauty, quality of rhyme and emotion, originality, and
@@ -1063,9 +1088,9 @@ A fumble indicates an embarrassingly bad piece.
 The Gamemaster may award Glory to a successful composer, particularly if the song is dedicated to a lady.
 
 ### Courtesy (Knightly, Knowledge)
-Courtesy is a knowledge skill defining a knight’s knowledge of courtly manners, from etiquette to matters of precedence
+Courtesy is a knowledge skill defining a knight's knowledge of courtly manners, from etiquette to matters of precedence
 and table manners; from modes of speech, including protocol, vocabulary, style, and forms of address, to all types of
-decorum appropriate to a lord’s court, such as around superiors, around women, and around disfavored people.
+decorum appropriate to a lord's court, such as around superiors, around women, and around disfavored people.
 
 The default starting Courtesy value of 3 indicates that the character understands simple matters of precedence and knows
 the basic forms of address at court. Courtesy does not include dance, heraldry, or forms of the tournament. These areas
@@ -1081,11 +1106,11 @@ who fumble their Courtesy roll in court, possibly with dramatic consequences.
 Glory may be gained by any significant use of Courtesy in court or any formal situation, particularly with a critical
 success.
 
-> **Special**: With the Gamemaster’s approval, characters having high Glory may receive a positive modifier to Courtesy,
+> **Special**: With the Gamemaster's approval, characters having high Glory may receive a positive modifier to Courtesy,
 with a maximum modifier equal to Glory/1,000.
 
 ### Dancing (Knightly)
-This skill measures the character’s ability to move gracefully to music, as well as his knowledge of the many styles of
+This skill measures the character's ability to move gracefully to music, as well as his knowledge of the many styles of
 formal dancing done at court. This elegant style of dancing depends primarily on experience and knowledge of forms rather
 than on agility.
 
@@ -1097,7 +1122,7 @@ that the fumbler tripped and fell over his own feet. A fumbled Dance roll is inv
 
 Glory can be gained from successful Dance rolls if the dancer(s) are the center of attention.
 
-> **Special**: With the Gamemaster’s approval, characters having high Glory may receive a positive modifier to Dance,
+> **Special**: With the Gamemaster's approval, characters having high Glory may receive a positive modifier to Dance,
 with a maximum modifier equal to Glory/1,000.
 
 ### Faerie Lore (Knightly, Knowledge)
@@ -1107,7 +1132,7 @@ Side. It may be used to identify a particular type of faerie that was sighted, t
 or to aid communication with the inhabitants of the Faerie Realm.
 
 Every character in Pendragon is superstitious to some extent and this is expressed by the starting skill value of 2. 
-This minimum means that all characters know common legends. For example, person in King Arthur’s Britain knows that a 
+This minimum means that all characters know common legends. For example, person in King Arthur's Britain knows that a 
 lone faerie probably intends harm, while a band of faeries may not. Everyone knows that whenever something uncanny 
 occurs it is due to some elf or faerie, and anything strange that is not immediately recognizable as the influence of 
 faeries is quite possibly made by them as well.
@@ -1134,11 +1159,11 @@ The Falconry skill is used whenever knights and ladies take birds into the field
 apt the character is at the sport, such as knowing just when to let the bird go, how to call it back, and how to handle 
 it both safely and decorously.
 
-Critical success means the bird caught its prey and returned with it to the hawker’s feet, and that both falconer and 
+Critical success means the bird caught its prey and returned with it to the hawker's feet, and that both falconer and 
 bird acted gracefully and stylishly. Success simply indicates that the bird got its prey. Failure shows it missed its 
 catch. A fumble means the hawk flew away and was lost, or was somehow fatally injured in its hunt.
 
-Individual birds may be trained by their masters, and a particularly well-trained bird can actually improve a knight’s 
+Individual birds may be trained by their masters, and a particularly well-trained bird can actually improve a knight's 
 Falconry skill with a positive modifier.
 
 Tradition insists that certain birds be used only by certain ranks or classes of folk, as follows:
@@ -1154,7 +1179,7 @@ Glory is gained for every success in Falconry. Most successes gain ordinary Glor
 critical success before King Arthur and the assembled court might gain as much as 100 points. 
 
 ### Fashion (Non-Knightly)
-This skill dictates a lady’s sense of fashion, of knowing what is in style and what is not. It dictates her mastery of 
+This skill dictates a lady's sense of fashion, of knowing what is in style and what is not. It dictates her mastery of 
 what to wear, how to wear it, and how to be creative in setting new fashions. Generally, the queen sets fashion 
 (or rather, her ladies-in-waiting do), though outside sources may also have some influence — "Spanish dresses this 
 year," and whatnot. Fashion expertise is yet another way for a young woman to get into a noble household.
@@ -1194,7 +1219,7 @@ Failure indicates that the message was not adequately conveyed during the conver
 misspoke something terribly, and caused embarrassment, and perhaps even offense.
 
 Although seduction certainly requires flirtation during its initial stages, flirtation does not necessarily mean 
-seduction. It is not uncommon to flirt for amusement’s sake, although this practice may be misinterpreted and incite 
+seduction. It is not uncommon to flirt for amusement's sake, although this practice may be misinterpreted and incite 
 passions among the unlettered and ignorant.
 
 It is more exciting to flirt with a handsome or beautiful character than an ugly one. The Gamemaster may wish to impose 
@@ -1204,7 +1229,7 @@ Success with the Flirting skill gains Glory only if a subject of the opposite se
 
 Note that Flirting is deliberately set apart from the far less vulgar Romance skill.
 
-> **Special**: With the Gamemaster’s approval, characters having high Glory may receive a positive modifier to Flirting, 
+> **Special**: With the Gamemaster's approval, characters having high Glory may receive a positive modifier to Flirting, 
 with a maximum modifier equal to Glory/1,000. 
 
 ### Folklore (Knightly, Knowledge)
@@ -1259,7 +1284,7 @@ A failed Heraldry roll means the character simply does not know whose coat of ar
 he identifies the coat of arms wrongly.
 
 The Gamemaster may require a Heraldry roll to see if the characters properly identify the coat of arms of someone they 
-already know. Success means the Gamemaster states the individual’s identity (or at least the identity of the individual 
+already know. Success means the Gamemaster states the individual's identity (or at least the identity of the individual 
 whose shield he bears...).
 
 A success with Heraldry gains Glory — normally 10 points — if vital or significant information is gained thereby.
@@ -1278,24 +1303,24 @@ hunting and the meanings of their various cries and barks; tracking the spoor an
 the best way to kill each beast quickly; and the skill of cutting it up properly afterwards so everyone, from hounds 
 and dog boys to the sponsor, gets their correct share.
  
-Generally, a Hunting roll made to pursue a beast through the wilderness is opposed by that creature’s Avoidance roll 
+Generally, a Hunting roll made to pursue a beast through the wilderness is opposed by that creature's Avoidance roll 
 (see "Natural Beasts" in Appendix 2 for a detailed explanation), modified by terrain as noted below. In addition to 
-dictating one’s ability to hunt game, the Hunting skill is also used to test general woodland and wilderness knowledge. 
+dictating one's ability to hunt game, the Hunting skill is also used to test general woodland and wilderness knowledge. 
 A successful Hunting roll (indicating an innate sense of direction, as well as the need to check the route with 
 passersby, seek trails and roads, follow landmarks, and so on) is needed to make progress while traveling in wild or 
 uncharted areas. A successful check in this circumstance results in travel at a Leisurely pace, while a critical 
 success allows travel at a Normal pace (see Movement in Chapter 5).
 
-A failed Hunting roll made to find one’s way in the wilderness means the character is confused and must stop the trip 
+A failed Hunting roll made to find one's way in the wilderness means the character is confused and must stop the trip 
 to get his bearings, delaying the journey for an hour or more, depending on Gamemaster preference. A fumble means the 
 character goes the wrong direction and becomes thoroughly lost. (See the "Lost in the Woods" scenario in Appendix 3.)
 
 Finally, a Hunting roll can be used to forage and hunt for small game. Assume that a successful roll means the character 
 has found enough food and potable water to keep himself fed for one day. A critical success sustains a character for 1d3 
 days, or else 1d6 characters for one day (since food spoils). A fumble might mean the character is poisoned by tainted 
-food or water, at the Gamemaster’s discretion.
+food or water, at the Gamemaster's discretion.
 
-Regardless of the purpose of a particular Hunting roll, local terrain can make a difference on a character’s Hunting 
+Regardless of the purpose of a particular Hunting roll, local terrain can make a difference on a character's Hunting 
 skill, as shown on the following chart.
 
 Terrain | Modifier
@@ -1318,15 +1343,15 @@ Characters hunting in their home county (or otherwise in the lands immediately s
 gains a +5 bonus on all Hunting rolls. 
 
 ### Industry (Non-Knightly)
-Knights never engage in Industry, and are in danger of losing their high rank if they do. Industry is the woman’s work 
-of creating things with her hands, or the common peasant’s tasks of farming, labor, and craft. 
+Knights never engage in Industry, and are in danger of losing their high rank if they do. Industry is the woman's work 
+of creating things with her hands, or the common peasant's tasks of farming, labor, and craft. 
 
 In Pendragon, this skill is most often expressed in the arts of spinning, weaving, and sewing, tasks for noblewomen who 
 create fashionable clothing for both men and women; large tapestries to hang upon walls; ornate church vestments; and 
 perhaps even simple table linens and the like. Industry can also be applied to churchmen who make fine books, or to 
 witches or druids who create fetishes and charms.
 
-The quality of work produced by one’s Industry is based on the number rolled for success. A critical success creates a 
+The quality of work produced by one's Industry is based on the number rolled for success. A critical success creates a 
 work of great quality or even artistry. Ordinary Glory (usually no more than 10 points) can be gained by non-knights 
 from the use of this skill, if a particularly beautiful item is made and presented to someone in public.
 
@@ -1351,12 +1376,369 @@ juncture, or seen by accident, or discovered in a lost note). Failure indicates 
 means that a close contact lies, or is thought to have lied, to you. The Gamemaster can exploit this uncertainty at his 
 leisure.
 
-A successful Intrigue roll accrues Glory if facts critical to the characters’ success in a scenario are gained.
+A successful Intrigue roll accrues Glory if facts critical to the characters' success in a scenario are gained.
+
+### Oracle (Knightly)
+The art of speaking fluently, with poetic grace and charismatic delivery, is useful in any situation that requires a 
+character to speak, but especially in public. A successful Orate roll indicates that the speech was effective and 
+well-delivered. A critical success indicates the listeners were genuinely moved by the speech, as the Gamemaster 
+decides. Failure shows that the speech was boring; a fumble indicates that the speaker made a fool of himself. 
+
+Ordinary Glory (10 points) is gained from a typical successful oration, while a speech that swayed a crowd at a crucial 
+juncture, or one that impressed an angry king, might gain more.
+
+> **Special**: With the Gamemaster's approval, characters having high Glory may receive a positive modifier to Orate, 
+with a maximum modifier equal to Glory/1,000.
+
+### Play - Instrument (Knightly)
+Everyone appreciates a good tune to wile away the after-dinner hours. Moreover, some women prefer men who have some 
+degree of ability in this form of entertainment.
+
+This skill is specific for each individual type of instrument; characters with this skill should choose an instrument 
+from the Musical Instruments sidebar. The name of the instrument is inserted into the parentheses on the character sheet.
+
+Most characters, even those well-versed in music, are familiar with only one instrument; if a character wishes to play 
+more than one instrument, he must record and develop each instrument as a separate Play (instrument) skill, with each 
+represented as a separate entry on the character sheet. For example, a character might have Play (harp) 10 and, entirely 
+separate, Play (lute) 3.
+
+Success indicates a good tune was played, while failure indicates the song was out of tune, off-beat, or in the wrong 
+chord. A critical success indicates a rousing tune that evoked an emotional response from the audience, while a fumble 
+means the character played so badly that everyone laughed at him.
+
+Glory for Playing (instrument) rolls can only come from playing instruments appropriate to a courtly audience. No Glory 
+is gained, for example, by a Saxon warrior blowing his horn in a Cymric court, or for someone entertaining peasants on a 
+bagpipe. 
+
+### Read - Symbols (Knightly, Knowledge)
+Several esoteric forms of writing exist in Britain, each generally known only to initiates of ancient lore. They are 
+generally used not for messages or books, but for documenting magical powers; they often serve as foci for spells and 
+rituals. Latin is the closest equivalent to modern writing, and even that tongue is rarely encountered except within the 
+church. Otherwise, characters might encounter symbols written on sticks, on stone menhirs, or inscribed over mysterious 
+cave mouths.
+
+This skill is specific for each individual type of symbol; characters with this skill should choose a written “language” 
+from the Written Symbols sidebar. The name of the language is inserted into the parentheses on the character sheet.
+
+Most characters, even scholars, are familiar with only one form of written symbols; if a character wishes to know more 
+than one kind of symbol, he must record and develop each type as a separate Read (symbol) skill, with each represented 
+as a separate entry on the character sheet. For example, a character might have Read (Latin) 5 and, entirely separate, 
+Read (Ogham) 2. 
+
+A successful Read (symbols) roll indicates that the symbols were read and understood. A critical success means that only 
+a short time was needed to read the symbols at hand. A failure indicates that the symbols remain incomprehensible, while 
+a fumble means that a (potentially calamitous) misinterpretation occurs.
+
+Some pieces of script may have negative modifiers for reading, depending on their age, their relative complexity, and 
+the subject of the writings. Ciphers and secret words are also possible within each type of written symbols, making the 
+task of reading difficult or even impossible to the uninitiated.
+
+The Gamemaster should determine how much time reading a document requires, based on its size and other factors. Given 
+society's belief in the power of symbols for spells and ritual, the Gamemaster's interpretation of magic might include 
+Read (symbols) as a component in working such magics.
+
+Glory could be gained for a use of Read (symbols) if important information for a scenario or hidden secrets were 
+revealed thereby.
+
+### Recognize (Knightly, Knowledge)
+Not everyone is adept at putting names to faces — or, in Pendragon, faces to coats of arms. When people mingle at 
+court, there may be hundreds of nobles and knights, along with thousands of servants and commoners. In such a crowd, 
+you might see someone or perhaps even be introduced, yet forget him almost immediately as one among many. Likewise, 
+after viewing several hundred young knights at a tourney, you might find that all but the best tend to blur into one 
+indistinct figure. 
+
+Recognize lets you put together clues — a face with a jousting style or some distinctive feature, for example — that 
+help you identify a person. However, you must have reason to recall facts about that person at all. Thus, if you've 
+never seen or heard of someone before, even a critical success would not help; it is impossible to use this skill to 
+learn something about a complete stranger. On the other hand, the Gamemaster may have you make a Recognize roll when 
+you don't think of it yourself, and might also assign a positive modifier to your skill if the personage is actually 
+an unrecognized acquaintance.
+
+A successful Recognize roll indicates that you remember a character and recall everything you know about him. A 
+critical success means that you recognize a person even if he is in disguise. A failed roll indicates that you don't 
+remember this person. A fumble indicates that you think you recognize him, but the Gamemaster can give you false (or 
+true information if that might be misleading…); a character who fumbles a Recognize roll is thus always unsure about 
+his identification.
+
+A successful Recognize roll might gain Glory if recognition was crucial to a scenario.
+
+### Religion (Knightly, Knowledge)
+This skill quantifies what a character knows concerning the beliefs, rites, sacred calendar, and practices of a religion. 
+It also indicates a person's ability to follow ceremony and to do what is appropriate to his station within a sacred 
+context. This skill is specific for each individual religion; characters with this skill should choose a religion 
+appropriate to his culture. The name of the religion is inserted into the parentheses on the character sheet.
+
+Most characters, even priests, are familiar with only one form of religion; if a character wishes to know more than one 
+religion, he must record and develop each type as a separate Religion skill, with each represented as a separate entry 
+on the character sheet. For example, a character might have Religion (Roman Christianity) 10 and, entirely separate, 
+Religion (Wotan) 2.
+
+Note that a high Religion skill does not necessarily indicate the strength of one's belief — this is measured by the 
+Piety trait. Neither does it indicate the fervency of one's faith, which is measured by passions. This skill simply 
+allows one to know the forms, ceremonies, and ideologies of a religion, as would be acquired by attending normal 
+worship. Non-believers may have this skill for any religion.
+
+The most common religion for player knights of Logres is Christianity, whether of the Roman or British variety; many 
+knights still adhere to Paganism, however. Less common religions, to be introduced in later supplements, are the 
+Wotanism of the Saxons and, truly exotic, Islam and Judaism.
+
+Success or failure with the Religion skill should not normally affect magical events. Piety and passions are better 
+sources of miracles and magic in the game than expertise in the forms and dogma of a religion. 
+
+Successful use of the Religion skill does not usually gain Glory unless a successful prayer or ritual was crucial to 
+the scenario. 
+
+### Romance (Knightly, Knowledge)
+A Romance roll might be required to know how to approach a woman for the first time; how to properly avert one's eyes; 
+to properly kiss a hand, wrist, elbow, or other part of the body; and, most especially, what is the best type of present 
+to give a lover. For a woman, this skill includes knowing when to refuse an audience, when to accept a tryst, how to say 
+no, how to be “constructively cruel,” how to tell whether entertainment is new or customary, and how a man lies. The
+Romance skill also concerns the practice of fine amor. (See Appendix 1.)
+
+Romance is an elegant and courtly skill, and success should gain ordinary Glory in most instances.
+
+### Singing (Knightly, Knowledge)
+Vocal music pleases all listeners, whether sung in church, in court, or for a lover in a warm summer glade. Professional 
+bards and minstrels wander from court to court with a repertoire of ballads and lays. Noblemen create love poems and 
+romances, and find honor in the title of troubadour. Poorer troubadours perform their own songs, while the richer hire 
+singers, called jongleurs, to perform for them. Women sing both to entertain the household on lonely winter nights and 
+to please lovers. On some fine spring days, Arthur's court may be very much like the musical Camelot, or like unto a 
+very pleasant dream.
+
+A critical success at Singing indicates a powerful and emotional performance, while a simple success indicates a pleasant 
+experience. A failure indicates an unpleasant song or worse, while a fumble indicates something awful and scandalous, 
+causing social embarrassment.
+
+Successful Singing always gains Glory, usually an ordinary award (10 points). More Glory might be gained if some scenario 
+goal was achieved thereby (a savage guardian soothed, for example). Successful singing in a respected lord's court gains 
+additional Glory.
+
+### Stewardship (Non-Knightly, Knowledge)
+This ability to plan, administer, and oversee the keeping of a farm or similar holding is not normally required for 
+knights. It is an important women's skill, used to maintain and improve the income generated from her husband's (or her 
+family's, or, more rarely, her own) lands. On a knight's holding, the bailiff usually knows this skill.
+
+Glory is not found by being a farmer or administrator, although Glory may be derived from Stewardship if a success 
+contributes to a battle victory or saves a knight or greater noble from poverty or humiliation.
+
+### Swimming (Knightly)
+Swimming is used to move successfully through water. The roll is normally unmodified, but in stormy or flooded conditions 
+there may also be negative modifiers involved.
+
+A successful Swimming roll indicates that the character remained above water and traveled his base Movement Rate in the 
+desired direction. A critical success indicates that he did so at double speed. A failure indicates that he did not make 
+significant progress this round. A fumble means he must attempt a CON roll: If he fails, the character begins drowning, 
+taking 1d6 damage each melee round after the CON roll fails.
+
+A Swimming roll also can be used to remove armor while underwater. A successful roll removes 2 points of armor. However, 
+during this time, the character suffers drowning damage (as above) with no CON roll possible.
+
+Glory is gained only if someone is saved by a Swimming roll.
+
+Special: Swimming does not use the standard encumbrance rules for armor worn. Instead, a character’s Swimming skill is 
+reduced by 1 point per point of armor worn; thus, a character with a Swimming value of 10 would have a modified skill of 
+6 while wearing leather armor (4 armor points).
+
+Normal encumbrance — a light or heavy load — imposes the usual penalties (that is, –5 and –10 respectively) in addition 
+to any penalties from armor. However, a character’s gear, other than armor, can be dropped freely.
+
+### Tourney (Knightly, Knowledge)
+This skill is used to understand the correct procedures, customs, and behavior at that spectacle of chivalrous 
+entertainment known as the tournament.
+
+A Tourney roll is required to find out if a knight has registered with the correct person at the right time, or whether 
+he has embarrassed himself by arriving at the last minute. A roll could be used to see if the knight understands what 
+certain trumpet blasts at a tourney mean; a failure might indicate that he did not have his squire place his helmet and 
+surcoat out for the helm show, or that he missed an important feast or speech. Alternately, a failed roll might mean 
+that the knight did not know whom to address; what do upon winning a joust; or how to properly ask for, receive, or 
+handle a lady’s favor.
+
+A fumble, as with most knightly skills, is almost invariably humiliating.
+
+Glory can be gained with most successful uses of the Tourney skill. Usually this should be an ordinary award (10 points). 
+A crucial use of the skill that gains an advantage in combat or foils a villain’s plans should gain additional Glory.
+
+## Weapon Skills
+Some of the following skills are knightly, while the rest are Non-Knightly. Note that those skills listed here as being 
+Knightly assume that, as with all other considerations in this game, the character is a Cymric knight; warriors and 
+knights from other cultures might have slightly different ideas about what weapons are “knightly” or not. 
+
+### Axe (Knightly)
+This skill dictates the use of a battle axe, a one-handed weapon that may be single- or double-edged. A battle axe 
+easily shatters or splits open shields: It deals an additional 1d6 damage against any combatant using a shield. A fumble 
+indicates that the axe broke.
+
+This skill and the weapon for which it is named are favored by many Saxons.
+
+### Battle (Knightly)
+This skill has two general applications. The first dictates a leader’s ability to command his troops in battle; this 
+application is used for both battles and skirmishes.
+
+The second applies to tactical decisions when individuals are separated from their larger unit; this use of the Battle 
+skill is used only in battles.
+
+For more information on uses of the Battle skill, see Chapter 6 and Appendix 4.
+
+### Bow (Knightly)
+This skill is dictates a character’s skill with the bow, a missile weapon usually of wood or horn, normally used by 
+peasants for hunting and by foot soldiers in war. Knights normally do not use bows in combat, although they often use 
+them for hunting.
+
+A bow deals 3d6 points of damage regardless of the user’s Damage statistic. It is a two-handed weapon, so no shield 
+can be used while shooting a bow. The bow’s maximum range is 150 yards. Modifiers must be applied for mid-range or 
+longrange shots, small or covered targets, and so on. A fumble indicates that the weapon has a broken string or, worse, 
+is cracked. 
+
+### Crossbow (Non-Knightly)
+This is a mechanical missile weapon invented, some say, by the devil. The Pope has outlawed its use against Christians,
+but the damnable commoners seem not to have heard. Knights generally scorn the use of crossbows in combat, although some 
+may welcome their use in hunting (only!).
+
+As with any missile weapon, negative modifiers must be used for longer ranges.
+
+Different strengths of crossbows do different damage, and take different times to reload and shoot. A light crossbow 
+fires at the same rate as a bow (one shot per round), for instance, but a heavy crossbow requires 3 full rounds of 
+cocking before it can be fired. 
+
+Crossbow Type | Damage | Rate of Fire | Maximum Range
+------------- | ------ | ------------ | -------------
+Light | 1d6+10 | 1 per round | 150 yards
+Medium | 1d6+13 | 1 per 2 melee rounds | 200 years
+Heavy | 1d6+13 | 1 per 4 melee rounds | 250 yards
+
+> _A light crossbow may be fired from one hand, though it requires two hands to load. Other crossbows are two-handed 
+weapons for purposes of both firing and loading._
+
+### Dagger (Knightly)
+This skill includes the use of all one-handed knives, daggers, and even short swords — in fact, it covers anything from 
+the ancient Roman gladius to a common table knife. The tool is usually steel, but particular daggers might be of bronze, 
+iron, or even possibly of stone or some other material.
+
+The weapons covered by the use of this skill are generally ineffective against heavily armored knights, but a simple 
+knife or dagger is carried by virtually everyone in Cymric society, including women and priests. A knight usually has a 
+dagger sheathed on his sword belt, ready for use in close quarters. 
+
+Due to its small size, a dagger does 1d6 less damage than the user’s normal Damage statistic when it strikes, to a 
+minimum of 1d6 damage (so even a shriveled, weak old woman still does 1d6 damage). Thus, a character who normally does 
+4d6 points of damage on a hit deals only 3d6 with a dagger.
+
+A fumble indicates the weapon has broken.
+
+> **Special**: If an enemy wielding a 2-foot-long dirk attacks a character with a tiny table knife, for instance, the 
+Gamemaster might wish to adjust the relative damage done slightly to reflect the difference between the two similar but 
+not identical weapons. 
+
+### Grapple (Knightly)
+Characters in Arthurian literature often throw down their weapons and grapple an opponent in dramatic fashion. This skill 
+simulates such tactics.
+
+The art of pugilism, in the modern sense, is unknown in Arthur’s Britain, but common brawling includes punching, wrestling, 
+bashing, slamming, gouging, biting, kicking, and so on. (This is handled under the “Brawling” section in Chapter 6.) 
+Quarrelsome knights in their cups may often wrestle to prove their manhood, but this is considered brawling, not a use 
+of the Grapple skill.
+
+Grapple is normally used in armed combat, either when every other weapon is broken or when stalemate has set in between 
+two knights with excellent weapon skills, so that neither can easily hurt the other. Grappling is a risky but viable 
+option in such instances.
+
+Armor has no effect on the Grapple skill, nor does sitting a horse affect it unless the Gamemaster rules otherwise. 
+(It is assumed that both characters suffer the same hampering conditions, which effectively negate each other.)
+
+See also “Grappling” in Chapter 6.
+
+### Great Axe (Knightly)
+This skill dictates a character’s use of the great axe; a two-handed and double-headed version of the battle axe, this
+weapon cannot be used with a shield. However, due to its great mass, it does an extra 1d6 points of damage against all 
+foes, and an additional 1d6 against any combatant using a shield. A fumble indicates the weapon broke.
+
+Many Saxons fighting against armored knights favor this weapon.
+
+### Great Spear (Knightly)
+This skill dictates a character’s use of the great spear (sometimes called a “pike”), a heavy two-handed spear used to 
+strike and stab. A great spear grants a +5 modifier when used by foot soldiers against horsemen (thus negating the 
+footmen’s normal disadvantage). The great spear is long enough that it also negates the +5 lance modifier versus 
+non-lance weapons.
+
+A fumble indicates that the spear has broken. A great spear may not be thrown. 
+
+> **Boar Spear**: This skill is also used by a hunter wielding a boar spear, a large, broad-bladed spear with a metal 
+crossbar located a short distance below its head. A boar that takes damage equal at least to its DEX score (i.e., 
+typically 15) from a boar spear may not thereafter attack the foe wielding the boar spear. See “Boar” in Appendix 2. 
+
+### Horsemanship (Knightly)
+Horsemanship is the ability to perform actions and maneuvers while mounted on a moving horse. Such activities include 
+fighting, jumping obstacles, and galloping.
+
+In most situations, a success indicates that the horse did what it was expected to do, while failure indicates it did 
+not. A critical success allows the mount to go a little faster, jump a little farther, or otherwise perform beyond its 
+usual capabilities or apply greater than normal effort. A fumble indicates that the horse trips, the rider falls off, 
+the saddle girths break, or the like — regardless, the ride has ended.
+
+Horsemanship is also used by a mounted combatant whenever he suffers a Knockdown result from damage taken. See 
+“Knockdown” in Chapter 6.
+
+Glory can be gained for a success in Horsemanship as with many non-combat skills. Usually, the Glory is gained not for 
+the successful roll but for the results. Winning a race or carrying a vital message swiftly to its intended recipient 
+might gain 10 Glory, for example.
+
+A heroic use of Horsemanship, such as rescuing a child from a burning barn by riding in and out, might gain 100 Glory.
+
+### Javelin (Knightly)
+This skill dictates a character’s use of the javelin, a short, light spear that can be thrown at a nearby opponent or 
+game animal. A javelin’s maximum range is 30 yards.
+
+Due to its lightness and the fact that it is hurled, a javelin deals 2d6 less damage than the user’s normal Damage 
+statistic, to a minimum of 1d6 damage. Thus, a character who normally does 4d6 points of damage on a hit deals only 
+2d6 with a javelin.
+
+A fumble indicates that the weapon has broken. 
+
+### Lance (Knightly)
+This skill dictates a character’s use of the lance, a stout, lengthy spear used in a mounted charge. It is held in the 
+right hand and crossed over the horse’s neck, allowing the knight to crouch behind his shield and impact his target 
+directly. The lance thus protrudes out to the left; if it were held any other way, the impact would dislocate the 
+lancer’s shoulder. 
+
+Fighting with a lance but without a mounted charge is the same as using a spear: Use the character’s Spear skill, not 
+Lance.
+
+For more information on lances and jousting, see “Mounted Combat” in Chapter 6.
+
+> **Special**: The Lance skill is also used in jousting; there is no separate “Jousting Lance” skill. A jousting lance 
+is a piece of sporting equipment, not a lethal weapon; it is designed not to destroy the loser of a joust, but merely to 
+knock him from his horse.
+
+### Mace (Knightly)
+This skill dictates a character’s use of the mace, a heavy one-handed bludgeoning weapon often augmented with flanged 
+edges or spikes. A mace deals an additional 1d6 points of damage against foes in chainmail armor.
+
+A fumble indicates that the mace has broken.
+
+### Spear (Knightly)
+This skill dictates a character’s use of the spear, essentially a short pole or long stick with a pointed head (usually 
+of metal) on one end. The spear is used one-handed, unlike the great spear. It can not be thrown like a javelin, which 
+is much smaller.
+
+A fumble indicates that the spear has broken.
+
+> **Special**: The spear can also be used from horseback as a lance; like a lance, when used in a mounted charge, it 
+calls for the Lance skill rather than the Spear skill.
+
+### Sword (Knightly)
+This skill dictates a character’s use of the sword, the quintessential knightly weapon. The standard sword, whether 
+referred to as a longsword, a broadsword, a spaetha (by the Romans), a seax (by the Saxons), a cleddyf mawr (by the 
+Cymri), or by any other name, is a one-handed weapon normally used with a shield. Swords may be of varying lengths, 
+thicknesses, and shapes, but they are always of the best possible iron.
+
+The sword has two distinct advantages over all other weapons:
+
+1. Swords do not break when their wielder fumbles, but are instead dropped and can be recovered.
+2. If a tie occurs in any opposed resolution against a different weapon, a sword always breaks a non-sword.
 
 # Stats
 
 ## Dexterity Roll
-Game play presents countless hazards and difficulties that challenge your player knight’s agility, reactions, or
+Game play presents countless hazards and difficulties that challenge your player knight's agility, reactions, or
 movement-related abilities such as climbing, sneaking, and balancing. All these situations use a DEX roll, usually
 unopposed, to determine success.
 
@@ -1436,7 +1818,7 @@ DEX roll. Encumbered characters who are jumping suffer the usual modifiers to DE
 difficulty assigned to it, based on the distance in yards. (This is intended to make certain jumps impossible, as they
 should be.)
 
-For simplicity’s sake, a jump’s distance imposes a –3 modifier per yard of distance beyond the first. For this purpose,
+For simplicity's sake, a jump's distance imposes a –3 modifier per yard of distance beyond the first. For this purpose,
 treat each fraction of a yard as a full yard. Assume that a horizontal leap also has a vertical component equal to half
 its length, but this imposes no further penalty.
 
@@ -1512,7 +1894,7 @@ done in secret, so romantic knights will wish to utilize this step. Check with t
 
 ## Step 2: Experience Rolls
 Characters spend some of the winter reflecting back over the year that has gone by. This process is simulated using an 
-"experience roll." Throughout game play during the game’s summer season, potential improvements are recorded as an 
+"experience roll." Throughout game play during the game's summer season, potential improvements are recorded as an 
 increase in the checked skill, passion, or trait value (see "[Obtaining Experience](#obtaining-experience)).
 
 The experience roll process is the same whether you seek to increase a skill, a passion, or a trait. Attributes 
@@ -1529,8 +1911,8 @@ box. The player determines the order in which he rolls for checks.
 If your primary squire has any checks, you may roll for each of his skills normally as well.
 
 ## Step 3: Aging
-Increase your character’s age by one year. In game terms, all aging is done during the Winter Phase, regardless of your
-character’s actual birth date. Your squire(s) also age at this point, and a player knight’s squire is always replaced
+Increase your character's age by one year. In game terms, all aging is done during the Winter Phase, regardless of your
+character's actual birth date. Your squire(s) also age at this point, and a player knight's squire is always replaced
 with a new 15-year-old squire upon reaching age 21.
 
 Aging eventually takes even the most gifted character out of play, usually around age 50 or later. When any attribute,
@@ -1541,9 +1923,9 @@ actions that the Gamemaster permits. When any attribute reaches 0, the character
 
 ### Aging Procedure
 Every character of 35 years of age or more must roll on [Statistics Lost](#statistics-lost) table: Aging each winter. The
-ultimate result of aging may be a random reduction in one or more of the character’s statistics. For example, in a
+ultimate result of aging may be a random reduction in one or more of the character's statistics. For example, in a
 given year, a character might lose 1 point of STR and 1 point of CON, or 2 points of SIZ. In many years of aging, no
-statistics are lost at all; at worst, no more than 4 points can be lost in a single year’s aging.
+statistics are lost at all; at worst, no more than 4 points can be lost in a single year's aging.
 
 Roll 2d6 and consult the table to find the number of statistics affected by aging this year. The result from the
 [Aging Table](#aging-table) is the number of rolls you must then make on Table 5–3. For example, if the first roll is a
@@ -1591,8 +1973,8 @@ Every character must determine his situation as regards food, money, clothing, p
 with the Gamemaster. An overall grade of maintenance must be established for your character. See
 [Standards of Living](#standards-of-living) to help make the appropriate determination.
 
-Ask the Gamemaster if anything important has happened to your character’s lands and economic needs, keeping notes as
-needed. Raids, unscheduled visits by a lord, or even faerie curses might reduce a knight’s economic circumstances,
+Ask the Gamemaster if anything important has happened to your character's lands and economic needs, keeping notes as
+needed. Raids, unscheduled visits by a lord, or even faerie curses might reduce a knight's economic circumstances,
 forcing a reduction in his grade of maintenance, while a very good harvest might let a knight increase his grade of
 maintenance.
 
@@ -1602,7 +1984,7 @@ goods into cash.) Gifts and plunder may be substantial enough that a vassal knig
 grade of maintenance, even though his lord has not directly provided for it.
 
 Now, based on the results of the above considerations, the player knight is assigned to one of the standard grades of
-maintenance. If nothing remarkable has occurred in terms of your character’s personal wealth, for good or ill, then your
+maintenance. If nothing remarkable has occurred in terms of your character's personal wealth, for good or ill, then your
 character uses the same grade of maintenance, if any, that he had last year.
 
 ### Effects of Maintenance
@@ -1619,7 +2001,7 @@ due to severe rust and neglect of proper repair and care. Finally, he must make 
 through aging, due to the hardships of having insufficient shelter.
 
 However, even with all this to suffer, the knight loses no Glory, nor do his traits and passions change. The state of a
-knight’s reputation is independent of such petty issues as money.
+knight's reputation is independent of such petty issues as money.
 
 #### Poor
 This grade of maintenance is unfortunate but not disastrous. Many vassal knights (most player characters) may suffer this
@@ -1651,7 +2033,7 @@ a +2 modifier when rolling on the Horse Survival table and a +3 modifier on the 
 receives a +3 modifier when rolling on the Child Survival table and a +5 modifier on the Childbirth table.
 
 ### Clothing Value
-For all grades of maintenance, reduce the character’s best suit of clothing to half its previous value. This reflects the
+For all grades of maintenance, reduce the character's best suit of clothing to half its previous value. This reflects the
 fact that even the most expensive formal clothes go quickly out of style, in addition to suffering normal wear and tear.
 New clothes can be purchased if the knight has the means (again, see [Standards of Living](#standards-of-living).
 
@@ -1666,15 +2048,15 @@ d20 Result | Horse's Fate
 1 - 2 | Horse dies or is ruined
 3 or more | Horse remains healthy
 
-> _Note:  All horses suffer a –1 modifier for each year of the horse’s age beyond 7 years._
+> _Note:  All horses suffer a –1 modifier for each year of the horse's age beyond 7 years._
 
-Vassal knights may get new animals from their lord at some point during the following year’s scenario, as needed, to
+Vassal knights may get new animals from their lord at some point during the following year's scenario, as needed, to
 maintain the minimum stable of one charger, two rouncys, and one sumpter. Any additional or unusual horses (superior
 chargers, destriers, unique horses) that perish need not be replaced.
 
 ## Step 6: Family Rolls
-Your character’s family already exists, but children are desirable, especially for a vassal knight. The ideal way to
-gain children is through marriage. Once a marriage is achieved, legitimate children are possible. The wife’s Glory and
+Your character's family already exists, but children are desirable, especially for a vassal knight. The ideal way to
+gain children is through marriage. Once a marriage is achieved, legitimate children are possible. The wife's Glory and
 dowry are also desirable — see below.
 
 If your character is unmarried and wishes to remain so this winter, you may skip the marriage and childbirth portions
@@ -1685,23 +2067,23 @@ When a player wishes his character to marry, the Gamemaster rules whether this h
 this point in the campaign. A marriage may require some roleplaying to find the wife; alternately, the Random Marriage
 table can be used. No characters start the game already married.
 
-Most knights’ marriages are one of two types — marriage below one’s class or marriage within one’s class. To marry above 
-your class, such as into a count’s or a duke’s holding, requires game play, not random die rolls.
+Most knights' marriages are one of two types — marriage below one's class or marriage within one's class. To marry above 
+your class, such as into a count's or a duke's holding, requires game play, not random die rolls.
 
 Any knight may choose to have "kept women" (i.e., those which are not wives), but they each require a fee of $10 per year. 
-If payment can’t be made, then the knight was unable to maintain the woman’s interest or health and she has departed. 
-Wives do not require extra payment of this kind; their costs are figured into the knight’s stipend or holding 
+If payment can't be made, then the knight was unable to maintain the woman's interest or health and she has departed. 
+Wives do not require extra payment of this kind; their costs are figured into the knight's stipend or holding 
 (see [Standards of Living](#standards-of-living)).
 
 #### Below Your Class
 Use this course of action whenever your character wants to have a wife, no matter what or who. She is probably a handmaid 
-to your lord’s wife, a serving woman, an assistant seamstress to some rich merchant woman, or the younger sister of 
+to your lord's wife, a serving woman, an assistant seamstress to some rich merchant woman, or the younger sister of 
 another knight. Household knights usually marry this way.
 
 The Gamemaster should almost always permit this form of marriage, unless the character has been absent from home for 
 years or is impoverished and shamed, or unless the marriage would not fit in well with the scenarios he intends to run.
 
-The procedure is simple. Get permission from the character’s lord by making a Loyalty (lord) roll. If this roll is 
+The procedure is simple. Get permission from the character's lord by making a Loyalty (lord) roll. If this roll is 
 successful, the lord grants you the boon to wed. If your knight has not already chosen an available woman, the lord 
 selects an appropriate match. Your are thus married to an ordinary woman who has a dowry of 1d6 and 10 Glory.
 
@@ -1713,9 +2095,9 @@ indicate marriage to an unsuitable woman unless the Gamemaster and the player ag
 For a vassal knight or higher noble, it may take time to find a likely candidate for marriage. The Gamemaster should 
 personalize potential wives who hold great dowries and have great Glory.
 
-To find an ordinary wife within your character’s class, make a Courtesy roll. If successful, you may either roll on the 
+To find an ordinary wife within your character's class, make a Courtesy roll. If successful, you may either roll on the 
 Random Marriage table below, or wait a year. If you choose to wait until the next Winter Phase, write "met candidate 
-for marriage, still waiting" (or something to that effect) in your character’s history. You can wait for as many years 
+for marriage, still waiting" (or something to that effect) in your character's history. You can wait for as many years 
 as you want, if there is no pressure from your lord.
 
 For each year you make a successful Courtesy roll but choose to wait for marriage, add a +1 modifier to the d20 die roll 
@@ -1824,7 +2206,7 @@ d20 Result | Family Member
 This step includes any weapon training or practice done over the winter, and allows deliberate changes to attributes,
 traits, and passions.
 
-If the Gamemaster permits it, your knight’s squire can also increase one or more of his three primary skills (listed on
+If the Gamemaster permits it, your knight's squire can also increase one or more of his three primary skills (listed on
 the character sheet) at this time, using the same choices as your knight.
 
 During this step, you may choose to do any one of the following three things:
@@ -1842,13 +2224,13 @@ or Glory. (See [Step 2](step-2-experience-rolls) and [Step 9](#LINK-ME).)
 You may raise or lower any one attribute, trait, or passion value by 1 point. (Keep in mind that altering a trait this
 always also alters the value of the opposite trait as well.) Several restrictions apply: No trait can be increased to
 over 19, and passions cannot be increased over 20. No attribute can be raised higher than its maximum cultural value
-(see Character Generation). A character’s SIZ may not be increased after he reaches age 21; further, a character
+(see Character Generation). A character's SIZ may not be increased after he reaches age 21; further, a character
 cannot increase any other attribute (STR, DEX, CON, or APP) after he reaches age 35.
 
 ## Step 8: Compute Glory
-During the winter, all Glory gained during the previous year’s play is computed. The total is then added to the current
+During the winter, all Glory gained during the previous year's play is computed. The total is then added to the current
 number in the main [Glory](#glory) box on the character sheet. The sequence is one of the high points of the game for
-many players, as they see their character’s fame and prestige increase through [Glory](#glory).
+many players, as they see their character's fame and prestige increase through [Glory](#glory).
 
 Check with the Gamemaster to be sure you record all the various Glory awards correctly. See [Glory](#glory).
 
@@ -1868,16 +2250,16 @@ gained you special Glory equal to your Just trait.
 
 ### Glory from Unique Honors
 If any special honor or ambition was achieved last year, such as marriage to an heiress, this honor should have been
-recorded on the back of the character sheet. Review your character’s achievements for the previous year.
+recorded on the back of the character sheet. Review your character's achievements for the previous year.
 
 ### Annual Glory
 Many sources of Glory accrue annually. For example, holding a motte-and-bailey castle gains you 8 Glory per year. Annual
 Glory accrues now.
 
 ## Step 9: Glory Bonuses
-The final step of the Winter Phase is to add any bonus points gained from high Glory to the character’s attributes. A
+The final step of the Winter Phase is to add any bonus points gained from high Glory to the character's attributes. A
 bonus point is gained whenever your total Glory exceeds 1,000 points, and for every additional 1,000 points thereafter.
-(For example, a knight’s Glory might increase from 1,800 to 3,010 in an extraordinary year, yielding 2 bonus points for
+(For example, a knight's Glory might increase from 1,800 to 3,010 in an extraordinary year, yielding 2 bonus points for
 that year.)
 
 Bonus points must be spent now, as soon as they become available. Each point may be applied directly to an attribute,
@@ -1888,17 +2270,17 @@ increase his SIZ stat.
 If you increase an attribute score, recalculate any derived statistics related to that attribute. 
 
 If a trait or passion has just been increased to 16 or higher by means of a bonus point, you do not gain Glory from that 
-trait or passion until next year’s Winter Phase. The same is true for Glory gained if a character now qualifies for a 
+trait or passion until next year's Winter Phase. The same is true for Glory gained if a character now qualifies for a 
 Religious bonus (see "Magical Virtues" in Chapter 4), but the bonus itself (the +3 armor reduction bonus from Armor of
-Honor, for example) is gained immediately and may be used during the coming year’s scenarios.
+Honor, for example) is gained immediately and may be used during the coming year's scenarios.
 
 # Standards of Living
 The daily measure of wealth is that which can be seen and partaken of. Rich people eat better, wear fancier clothes,
 and have more luxurious homes. Knights, as members of the noble class, wear very nice clothing and eat well, whether
-at their lord’s board or in their own manor. A normal vassal knight — i.e., the typical player knight — has an ordinary
+at their lord's board or in their own manor. A normal vassal knight — i.e., the typical player knight — has an ordinary
 knightly standard of living (spending from $6 to $8 per year), as shown below in [Grades of Maintenance](#grades-of-maintenance).
 
-It is interesting and useful to compare knights’ standards with those of a typical peasant family of two adults and 
+It is interesting and useful to compare knights' standards with those of a typical peasant family of two adults and 
 three children: The common peasant exists in a self-sufficient world where money is unknown, and the family makes, grows,
 or barters for everything it needs. However, in monetary value, annual expense and income for the whole peasant family 
 equals about $1 per year.
@@ -1948,19 +2330,19 @@ standards. Their families live well off the fat of the land.
 
 Rich knights usually wear clothing of rich fabrics and furs in the latest style, have ornate silver-decorated tack for
 their glossy-coated horses, and regularly enjoy rich feasts. They typically have two squires in attendance, both being
-well-mounted and attentive to their knight’s needs.
+well-mounted and attentive to their knight's needs.
 
 > **Glory**: Knights who live above their expected means (i.e., more than $8 per year) gain Glory equal to the annual
 number of maintenance libra spent; thus, a knight who has $11 per year also gains 11 Glory per year.
 
-If a lord supplies this maintenance, rather than the knights’ getting the money themselves, the lord also gains a like
+If a lord supplies this maintenance, rather than the knights' getting the money themselves, the lord also gains a like
 amount of Glory.
 
 ### Superlative
 Superlative knights are the most extravagant and impressive of all, requiring $13 per year or more for upkeep. Their
 armor shines brightly, and their clothing is sumptuous, with intricate stitching, extensive use of gold thread, jewels,
 imported feathers, and furs from fantastic beasts. Three squires, each proud in matching livery, typically attend the
-knight’s needs.
+knight's needs.
 
 Superlative knights also benefit from superior health and the aid of well-equipped, loyal squires in battle.
 
@@ -1970,7 +2352,7 @@ Glory based on their income.
 # Combat Rules
 
 ## Injury and Health
-The raison d’etre of the knight is to fight, and much of the action in the game revolves around personal or military
+The raison d'etre of the knight is to fight, and much of the action in the game revolves around personal or military
 combat — which often results in injury, whether minor or mortal. Knights expect to take injury, and they wear their
 many scars proudly.
 
@@ -1987,7 +2369,7 @@ to make injuries a serious matter.
 
 ### Hit Points
 Health in Pendragon is measured primarily through the Total Hit Points statistic (calculated using SIZ + CON). This
-number represents the character’s capacity to absorb injury. Death is imminent if a character has 0 or negative hit
+number represents the character's capacity to absorb injury. Death is imminent if a character has 0 or negative hit
 points. In essence, though, a character with only half his hit points is half-dead.
 
 #### Losing Hit Points
@@ -2003,15 +2385,15 @@ the unsophisticated medicine of the times, known as Chirurgery. Aggravation is c
 character is already injured or ill, and may be averted only by avoiding such activity.
 
 #### Regaining Hit Points
-A character’s recovery from injury is a natural bodily process, which is quantified as that character’s Healing Rate,
+A character's recovery from injury is a natural bodily process, which is quantified as that character's Healing Rate,
 calculated as (STR + CON) ÷ 10. Characters normally recover a number of hit points equal to their Healing Rate every
 week (on Sunday at noon, in fact), although the Gamemaster may adjust this schedule if necessary.
 
 The First Aid skill lets the injured character regain hit points immediately, and ensures that bleeding is stopped,
-infection prevented, and so forth. A critical success with the Chirurgery skill augments a patient’s Healing Rate.
+infection prevented, and so forth. A critical success with the Chirurgery skill augments a patient's Healing Rate.
 (See [First Aid](#first-aid) and [Chirurgery"](#chirurgery))
 
-Magical healing may cure hit points or otherwise magically improve a character’s health, at the Gamemaster’s option. As
+Magical healing may cure hit points or otherwise magically improve a character's health, at the Gamemaster's option. As
 always, the details of healing magic are secrets known only to the Gamemaster (and to a few unique Gamemaster characters).
 
 In all cases, any hit points that would be regained over the value of the Total Hit Points statistic are lost.
@@ -2037,26 +2419,26 @@ Example of Injury and Unconsciousness: In a tremendous fight, Sir Ambrut is vict
 takes no Major Wound in the fight due to his heroic CON of 21. However, he takes many minor injuries, including a fall
 from his horse, for a total of 26 points of damage, leaving him with 8 current hit points.
 
-Since 8 is below Ambrut’s Unconscious value of 9, the sorely wounded knight staggers into a wood near the battlefield and
-falls unconscious. His player checks Ambrut’s "Chirurgery Needed" box at once.
+Since 8 is below Ambrut's Unconscious value of 9, the sorely wounded knight staggers into a wood near the battlefield and
+falls unconscious. His player checks Ambrut's "Chirurgery Needed" box at once.
 
 #### Zero or Negative Hit Points
 Page 124
 
 # Adventuring
-A primary activity of all the famous knights during Arthur’s time and after is to adventure. Adventuring, in fact, is the 
+A primary activity of all the famous knights during Arthur's time and after is to adventure. Adventuring, in fact, is the 
 activity that sets famous knights apart from those lesser knights who stay at home and acquire Glory passively (i.e., 
 while out of play).
 
-Adventuring is recognized as a legitimate knightly duty by the Arthurian court, one every bit as important as one’s duty 
+Adventuring is recognized as a legitimate knightly duty by the Arthurian court, one every bit as important as one's duty 
 to stand garrison and serve an active 40 days in the field. Most knights do not take the job, though. For them, the 
 everyday activities of guard duty, tournaments, and battles are enough to satisfy their sense of adventure.
 
 Other knights (like the player knights, we hope), seek more and thus undertake dangerous and glorious quests. Most of 
 the lords of Logres are in favor of this new "sport" of adventuring, and are happy to oblige those knights who wish to 
-engage in it. The lull of peace following Arthur’s rise leaves castles full of boisterous fighters with nothing to fight. 
+engage in it. The lull of peace following Arthur's rise leaves castles full of boisterous fighters with nothing to fight. 
 Adventuring sends the knights to work off their energy elsewhere, perhaps far away from Logres. Undoubtedly, the lord 
-hopes that the questing knights’ vigor will arouse something from his other less enthusiastic knights, as well.
+hopes that the questing knights' vigor will arouse something from his other less enthusiastic knights, as well.
 
 Adventures abound. Even stay-at-home knights have a few adventures as part of their routine, without having to go far to
 seek them out. Such adventures include going to tournaments, participating in battles, engaging in romance, visiting
@@ -2083,7 +2465,7 @@ Britain.
 Religion plays a large part in the lives of every Arthurian knight. As warriors, knights live close to the grim reality 
 of death at all times, and spiritual life provides some comfort and guidance for them.
 
-Religious conflict is a possible theme in Pendragon, based on a Gamemaster’s wishes for the campaign, but is not 
+Religious conflict is a possible theme in Pendragon, based on a Gamemaster's wishes for the campaign, but is not 
 generally touched upon in the basic game. Religious conflict was not a very important part of most Arthurian literature. 
 Constant argument and bigotry is almost sure to destroy a game, and players and Gamemasters alike are advised to use 
 religious conflict in a campaign only with great care.
@@ -2094,7 +2476,7 @@ option starting religion for player knights.
 
 ## Piety/Spirtual and Religion
 Religious attitudes, both Christian and pagan, can be summed up within four categories for Pendragon, and are determined 
-roughly by the value of a character’s Pious trait, as noted in parentheses beside each category.
+roughly by the value of a character's Pious trait, as noted in parentheses beside each category.
 
 ### Fanaticism (16+)
 For this character, religion is placed before any observance or behavior arising from a trait having a lower value, 
@@ -2106,9 +2488,9 @@ Most people in this range have been brought up on the precepts and ideologies of
 thinking much about it. They regularly attend religious services and functions, residing at the core of mainstream belief.
 
 ### Indifference (6–10)
-Most knights of Arthur’s era show great indifference toward their religion, just as most people do today and probably 
-always have. They are subject to its invisible cultural influence, but don’t really care one way or the other. They 
-might attend Mass regularly, or as needed, but probably think it’s a waste of time. Sir Gawaine is regularly accused of 
+Most knights of Arthur's era show great indifference toward their religion, just as most people do today and probably 
+always have. They are subject to its invisible cultural influence, but don't really care one way or the other. They 
+might attend Mass regularly, or as needed, but probably think it's a waste of time. Sir Gawaine is regularly accused of 
 being this type of knight. 
 
 ### Hostility (0–5)
@@ -2148,7 +2530,7 @@ all humankind. The day he died is called Good Friday.
 He was buried in the tomb of his uncle, Joseph of Arimathea, but after three days He rose miraculously from the dead. 
 He visited his closest disciples and instructed them in his new religion. Fifty days after the first Easter, the Holy 
 Ghost descended upon the apostles and gave them the gift of tongues, after which time they went around the world 
-teaching about the miracle of Christ’s death and resurrection. The converted people formed the start of the Christian 
+teaching about the miracle of Christ's death and resurrection. The converted people formed the start of the Christian 
 religion.
 
 This sacrifice by God allowed humans to obtain eternal salvation and, after death, to join God in Heaven. Worshipers 
@@ -2169,10 +2551,10 @@ Arthurian Britain, including the apostles, but one of the foremost is Saint Mary
 
 Mass is the name of the formal worship service, celebrated every Sunday by Christians everywhere, and even more often 
 by exceptionally pious people. The holy rituals are called sacraments, including the following: baptism, which is given 
-upon entering the religion; penance, which forgives the penitent’s sins; communion, the basic act of interaction with 
+upon entering the religion; penance, which forgives the penitent's sins; communion, the basic act of interaction with 
 God, and around which the Mass is centered; confirmation, which initiates members of the church as Soldiers of Christ; 
 matrimony, which blesses marriage; Holy Orders, by which a man is made a priest; and Extreme Unction, given at death to 
-ease a person’s journey to Heaven.
+ease a person's journey to Heaven.
 
 ### Differences and Similarities
 The British Church has a flavor of its own, due in part to its early adaptation of local druidic beliefs. Evidence of 
