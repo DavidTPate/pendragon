@@ -98,7 +98,7 @@ Quick reference for Pendragon rules for myself with handy HTML links throughout 
     - [Hunting (Knightly)](#hunting-knightly)
     - [Industry (Non-Knightly)](#industry-non-knightly)
     - [Intrigue (Knightly)](#intrigue-knightly)
-    - [Oracle (Knightly)](#oracle-knightly)
+    - [Orate (Knightly)](#orate-knightly)
     - [Play - Instrument (Knightly)](#play---instrument-knightly)
     - [Read - Symbols (Knightly, Knowledge)](#read---symbols-knightly-knowledge)
     - [Recognize (Knightly, Knowledge)](#recognize-knightly-knowledge)
@@ -1378,7 +1378,7 @@ leisure.
 
 A successful Intrigue roll accrues Glory if facts critical to the characters' success in a scenario are gained.
 
-### Oracle (Knightly)
+### Orate (Knightly)
 The art of speaking fluently, with poetic grace and charismatic delivery, is useful in any situation that requires a 
 character to speak, but especially in public. A successful Orate roll indicates that the speech was effective and 
 well-delivered. A critical success indicates the listeners were genuinely moved by the speech, as the Gamemaster 
